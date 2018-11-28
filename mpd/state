@@ -1,0 +1,141 @@
+sw_volume: 100
+audio_device_state:1:pulse audio
+audio_device_state:1:Visualizer FIFO
+state: stop
+current: 120
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Outros/Columbus.mp3
+1:Outros/Slavery Days.mp3
+2:Snoop Dogg/Dr. Dre  - Still D.R.E. (feat Snoop Dog).mp3
+3:Adao Negro-Republica2015/01 reggae, me leve!.mp3
+4:Reggae's Greatest-Roots of Reggae Disc 1/01 Get Up Stand Up.mp3
+5:Reggae's Greatest-Roots of Reggae Disc 1/02 Hey There Lonely Girl.mp3
+6:50 cent/P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit.mp3
+7:50 cent/Psycho (Feat. Eminem).mp3
+8:50 cent/Gangstas Delight.mp3
+9:50 cent/Crime Wave.mp3
+10:50 cent/So Disrespectful.mp3
+11:50 cent/I Got Swag.mp3
+12:50 cent/Flight 187.mp3
+13:50 cent/OK Youre Right.mp3
+14:50 cent/Get Up.mp3
+15:50 cent/I Run Ny.mp3
+16:50 cent/I Warned You.mp3
+17:50 cent/Pimp Part 2.mp3
+18:50 cent/When You Hear That.mp3
+19:50 cent/Bump Dat.mp3
+20:50 cent/The Banks Workout.mp3
+21:50 cent/Whoo Kid Shit.mp3
+22:50 cent/Just Fuckin Around.mp3
+23:50 cent/Got Me A Bottle.mp3
+24:50 cent/Tony Yayo Explosion.mp3
+25:50 cent/A Lil Bit Of Everything.mp3
+26:50 cent/Many Men.mp3
+27:50 cent/What Up Gangsta.mp3
+28:50 cent/Patiently Waiting ( Feat  Eminem).mp3
+29:50 cent/In Da Club.mp3
+30:50 cent/High All The Time.mp3
+31:50 cent/Heat.mp3
+32:50 cent/If I Cant.mp3
+33:50 cent/Blood Hound (Feat Young Buc).mp3
+34:50 cent/Back Down.mp3
+35:50 cent/Pimp.mp3
+36:50 cent/Like My Style (Feat Tony Yayo).mp3
+37:50 cent/21 Questions (Feat Nate Dogg).mp3
+38:50 cent/Dont Push Me(Feat Eminem And Lloyd Banks).mp3
+39:50 cent/Gotta Get.mp3
+40:50 cent/Wanksta.mp3
+41:50 cent/I Whip Your Head Boy.mp3
+42:50 cent/When It Rains It Pours.mp3
+43:50 cent/killa Tape.mp3
+44:50 cent/Your Life's On The Vine.mp3
+45:50 cent/Be A Gentleman.mp3
+46:50 cent/Corner Bodega.mp3
+47:50 cent/Here We Go.mp3
+48:50 cent/Doin My Own Thing.mp3
+49:50 cent/She Luv It.mp3
+50:50 cent/Die For Me.mp3
+51:50 cent/Heaven Hell.mp3
+52:50 cent/Banks Victory.mp3
+53:50 cent/After My Chedda.mp3
+54:50 cent/In My Hood.mp3
+55:50 cent/This Is 50.mp3
+56:50 cent/Piggy Bank.mp3
+57:50 cent/Gatman And Robbin (Feat Eminem).mp3
+58:50 cent/Candy Shop (Feat Olivia).mp3
+59:50 cent/Outta Control.mp3
+60:50 cent/Get In My Car.mp3
+61:50 cent/Ski Mask Way.mp3
+62:50 cent/A Baltimore Love Thing.mp3
+63:50 cent/Disco Inferno.mp3
+64:50 cent/Just A Lil Bit.mp3
+65:50 cent/Build You Up (Feat Jamie Foxx).mp3
+66:50 cent/So Amazing (Feat Olivia).mp3
+67:Bob Marley/Natural Mystic.mp3
+68:Bob Marley/So Much Things To Say.mp3
+69:Bob Marley/The Heathen.mp3
+70:Bob Marley/I Shot The Sheriff.mp3
+71:Bob Marley/Stir It Up.mp3
+72:Bob Marley/Buffalo Soldier.MP3
+73:Bob Marley/Jammin.mp3
+74:Bob Marley/Three Little Birds.mp3
+75:Bob Marley/Running Away.mp3
+76:Bob Marley/Coming In From The Cold.mp3
+77:Bob Marley/Lively Up Yourself.mp3
+78:Bob Marley/Redemption Song (Band Version).mp3
+79:Bob Marley/Who The Cap Fit.mp3
+80:Bob Marley/Rat Race.mp3
+81:Bob Marley/One Love People Get Ready.mp3
+82:Gregory Isaacs/Confirm Reservation.mp3
+83:Gregory Isaacs/Let's Dance.mp3
+84:Gregory Isaacs/Night Nurse.mp3
+85:Gregory Isaacs/Revenge.mp3
+86:Gregory Isaacs/Sad To Know (You're Leaving).mp3
+87:Gregory Isaacs/Soon Forward.mp3
+88:Gregory Isaacs/Sunday Morning.mp3
+89:Gregory Isaacs/House Of The Rising Sun.mp3
+90:Gregory Isaacs/Hot Stepper.mp3
+91:Gregory Isaacs/Permanent Lover.mp3
+92:Gregory Isaacs/Hush Darling.mp3
+93:Gregory Isaacs/My Only Lover.mp3
+94:Gregory Isaacs/If I Dont Have You.mp3
+95:Gregory Isaacs/Once Ago.mp3
+96:Gregory Isaacs/Wailing Rudie.mp3
+97:Gregory Isaacs/Top Ten.mp3
+98:Gregory Isaacs/Objection Overruled.mp3
+99:Gregory Isaacs/Stranger In Your Town.MP3
+100:Gregory Isaacs/Cool Down the Pace.mp3
+101:Gregory Isaacs/Not the Way.mp3
+102:Gregory Isaacs/Material Man.mp3
+103:Gregory Isaacs/My Number One.mp3
+104:Gregory Isaacs/Sunshine For Me.mp3
+105:Gregory Isaacs/The Border.mp3
+106:Gregory Isaacs/Front Door.mp3
+107:Gregory Isaacs/Out Deh.mp3
+108:Notorious Big Greatest Hits/17 Big Booty Hoes.mp3
+109:Notorious Big Greatest Hits/18 Would You Die For Me_ (feat. Lil'.mp3
+110:Notorious Big Greatest Hits/19 I Really Want To Show You.mp3
+111:Notorious Big Greatest Hits/10 Hypnotize.mp3
+112:Notorious Big Greatest Hits/11 Kick In The Door.mp3
+113:Notorious Big Greatest Hits/16 I Got A Story To Tell.mp3
+114:Notorious Big Greatest Hits/12 Another (feat. Lil' Kim).mp3
+115:Notorious Big Greatest Hits/13 Going Back To Cali.mp3
+116:Notorious Big Greatest Hits/15 Nasty Boy.mp3
+117:Notorious Big Greatest Hits/14 The World Is Filled (feat. Too.mp3
+118:Notorious Big Greatest Hits/01 Machine Gun Funk.mp3
+119:Notorious Big Greatest Hits/02 Warning.mp3
+120:Notorious Big Greatest Hits/03 Ready To Die.mp3
+121:Notorious Big Greatest Hits/04 One More Chance.mp3
+122:Notorious Big Greatest Hits/05 Juicy.mp3
+123:Notorious Big Greatest Hits/06 Big Poppa.mp3
+124:Notorious Big Greatest Hits/09 Respect.mp3
+125:Notorious Big Greatest Hits/07 Unbelievable.mp3
+126:Notorious Big Greatest Hits/08 Who Shot Ya.mp3
+playlist_end
