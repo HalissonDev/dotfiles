@@ -8,20 +8,20 @@ read resposta
 if [ $resposta == 1 ];
 then
 
-	rdesktop 192.168.1.103 -g 1366x768 -PKD -u Halisson -p Team152014
+	rdesktop 192.168.1.103 -g 1366x768 -PKD -u Halisson
 
 elif [ $resposta == 2 ]
 then
 
-	rdesktop joaonunes.ddns.net -g 1366x768 -PKD -u Administrator -p Team5004
+	rdesktop joaonunes.ddns.net -g 1366x768 -PKD -u Administrator
 
 elif [ $resposta == 3 ]
 then
-	rdesktop 192.168.1.103 -g 1366x768 -PKD -u Administrador -p Team5004
+	rdesktop 192.168.1.103 -g 1366x768 -PKD -u Administrador
 
 elif [ $resposta == 4 ]
 then
-    rdesktop 192.168.1.118 -g 1366x768 -PKD -u Administrator -p Team152014
+    rdesktop 192.168.1.118 -g 1366x768 -PKD -u Administrator
 
 else
     echo "O valor fornecido é inválido!"
