@@ -2,7 +2,6 @@
 # * ~/.bashrc Personalizado para Arch Linux *
 # * System: Arch Linux *
 # * local: $HOME/.bashrc *
-# * *
 # * Author: Halisson Hevelon *
 # * E-Mail: halisson.hevelon@gmail.com *
 # *********************************************
@@ -124,3 +123,6 @@ alias upd='sudo pacman -Syu'
 # Testar conexão com ping
 alias google='ping -c3 www.google.com.br' # Ping ao google a cada 3 segundos
 alias uol='ping -c3 www.uol.com.br' # Ping ao UOL a cada 3 segundos
+
+# Conectar Servidor Remoto Windows
+alias rpd='./dotfiles/meusScripts/rpd-comercial.sh'
