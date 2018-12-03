@@ -1,10 +1,10 @@
 #!/bin/bash
 
-#Instalar o Rdesktop
+# Instalar o Rdesktop
 
 #		sudo pacman -S rdesktop
 
-#Parâmetros do Rdesktop
+# Parâmetros do Rdesktop
 
 #		-a 16 -z -g 800x600
 # 		-f para tela cheia
