@@ -2,7 +2,7 @@ sw_volume: 100
 audio_device_state:1:pulse audio
 audio_device_state:1:Visualizer FIFO
 state: stop
-current: 120
+current: 666
 random: 0
 repeat: 0
 single: 0
@@ -138,4 +138,2300 @@ playlist_begin
 124:Notorious Big Greatest Hits/09 Respect.mp3
 125:Notorious Big Greatest Hits/07 Unbelievable.mp3
 126:Notorious Big Greatest Hits/08 Who Shot Ya.mp3
+127:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/01- Dezarie - www.clickdovale.com.br.mp3
+128:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/15- Dezarie - www.clickdovale.com.br.mp3
+129:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/01-2Pac - California Love (Original Version) (Ft. Dr. Dre & Roger Troutman).mp3
+130:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/02-2Pac - California Love (RMX) (Ft. Dr. Dre & Roger Troutman).mp3
+131:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/03-2Pac - Dear Mama.mp3
+132:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/04-2Pac - Hit 'Em Up.mp3
+133:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/05-2Pac - I Get Around (Ft. Digital Underground).mp3
+134:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/06-2Pac - Hail Mary.mp3
+135:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/07-2Pac - How Do U Want It.mp3
+136:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/08-2Pac - Keep Ya Head Up.mp3
+137:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/09-2Pac - I Ain't Mad At Cha (Ft. Danny Boy).mp3
+138:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/10-2Pac - Ambitionz Az A Ridah.mp3
+139:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/11-2Pac - If I Die 2Nite.mp3
+140:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/12-2Pac - 2 Of Amerikaz Most Wanted.mp3
+141:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/13-2Pac - Me and My Girlfriend.mp3
+142:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/14-2Pac - Changes.mp3
+143:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/15-2Pac - Picture Me Rollin' (Ft. Danny Boy, Big Syke & CPO).mp3
+144:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/16-2Pac - Temptations.mp3
+145:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/17-2Pac - Heartz Of Men.mp3
+146:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/18-2Pac - Against All Odds.mp3
+147:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/19-2Pac - All Eyez On Me (Ft. Big Syke).mp3
+148:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/20-2Pac - Troublesome '96.mp3
+149:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/21-2Pac - Smile (Ft. Scarface).mp3
+150:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/22-2Pac - Intro-Bomb First (My Second Reply).mp3
+151:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/23-2Pac - Holler If Ya Hear Me.mp3
+152:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/24-2Pac - I Wonder If Heaven Got a Ghetto.mp3
+153:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/25-2Pac - To Live & Die in L.A..mp3
+154:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/26-2Pac - Until The End Of Time.mp3
+155:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/27-2Pac - So Many Tears.mp3
+156:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/28-2Pac - BiggieTupac Live Freestyle (Funkmaster Flex).mp3
+157:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/29-2Pac - Pour Out A Lil Liquor (Original Version).mp3
+158:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/30-2Pac - Hold Ya Head.mp3
+159:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/31-2Pac - Can't C Me.mp3
+160:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/32-2Pac - Me Against The World.mp3
+161:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/33-2Pac - No More Pain.mp3
+162:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/34-2Pac - The Realist Killaz (Ft 50 Cent).mp3
+163:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/35-2Pac - White Man'z World.mp3
+164:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/36-2Pac - Ballad Of A Dead Soulja.mp3
+165:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/37-2Pac - Life Goes On.mp3
+166:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/38-2Pac - Toss it Up.mp3
+167:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/39-2Pac - Staring Through My Rear View (Ft. Dwele).mp3
+168:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/40-2Pac - Death Around The Corner.mp3
+169:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/41-2Pac - Unconditional Love.mp3
+170:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/42-2Pac - Shorty Wanna Be A Thug.mp3
+171:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/43-2Pac - Brenda's Got A Baby.mp3
+172:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/44-2Pac - When We Ride On Our Enemies.mp3
+173:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/45-2Pac - Only God Can Judge Me (Feat. Rappin' 4-Tay).mp3
+174:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/46-2Pac - Blasphemy.mp3
+175:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/47-2Pac - Thug Luv (Ft. Bone Thugs-N-Harmony).mp3
+176:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/48-2Pac - All Bout U (Ft. Yaki Kadafi, Nate Dogg & Snoop Dogg).mp3
+177:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/49-2Pac - How Long Will They Mourn Me (Ft. Nate Dogg).mp3
+178:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/50-2Pac - Hell 4 A Hustler (Ft. Outlawz).mp3
+179:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/51-2Pac - Thugz Mansion (Acoustic Version) (Ft. Nas & J. Phoenix).mp3
+180:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/52-2Pac - Trapped.mp3
+181:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/53-2Pac - Scandalouz (Ft. Nate Dogg).mp3
+182:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/54-2Pac - Same Song (Ft. Digital Underground).mp3
+183:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/55-2Pac - They Don't Give Fuck About Us (Ft. Outlawz).mp3
+184:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/56-2Pac - Wonda Why They Call U Bytch.mp3
+185:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/57-2Pac - Krazy.mp3
+186:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/58-2Pac - Late Night (Ft. Outlawz & DJ Quick).mp3
+187:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/59-2Pac - Holla At Me.mp3
+188:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/60-2Pac - Hellrazor.mp3
+189:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/61-2Pac - Thug Passion (Ft. Dramacydal, Jewell & Storm).mp3
+190:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/62-2Pac - Hennessey (Red Spyda Remix) (Ft. EDI & Sleepy Brown).mp3
+191:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/63-2Pac - Strictly 4 My N.I.G.G.A.Z..mp3
+192:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/64-2Pac - Ratha Be Ya Nigga (Ft. Richie Rich).mp3
+193:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/65-2Pac - Ghost.mp3
+194:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/66-2Pac - Just Like Daddy.mp3
+195:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/67-2Pac - Letter 2 My Unborn.mp3
+196:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/68-2Pac - Ain't Hard To Find (Ft. The Click, C-Bo, Richie Rich & E-40).mp3
+197:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/69-2Pac - Fuck Em All (Ft. The Outlawz).mp3
+198:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/70-2Pac - Strugglin' (Ft. Live Squad).mp3
+199:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/71-2Pac - One Day At A Time (Em's Version) (Ft. The Outlawz).mp3
+200:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/72-2Pac - Rebel of the Underground.mp3
+201:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/73-2Pac - Got My Mind Made Up (Ft. Method Man and Redman).mp3
+202:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/74-2Pac - Young Niggaz.mp3
+203:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/75-2Pac - My Block (Nitty Remix).mp3
+204:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/76-2Pac - Life of an Outlaw.mp3
+205:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/77-2Pac - Do For Love.mp3
+206:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/78-2Pac - Str8 Ballin'.mp3
+207:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/79-2Pac - Tha' Lunatic.mp3
+208:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/80-2Pac - 5 Deadly Venomz (Ft. Treach, Apache & Live Squad).mp3
+209:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/81-2Pac - Crooked Ass Nigga.mp3
+210:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/82-2Pac - The Uppercut (Ft. EDI. & Young Noble of the Outlawz).mp3
+211:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/83-2Pac - Outlaw (Ft. Dramacydal).mp3
+212:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/84-2Pac - Nothing to Lose.mp3
+213:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/85-2Pac - Run Tha Streetz (Ft. Michel'le, Napoleon & Storm).mp3
+214:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/86-2Pac - Black Cotton (Ft. Eminem, Kastro & Young Noble of the Outlawz).mp3
+215:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/87-2Pac - This Ain't Livin.mp3
+216:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/88-2Pac - Gotta Get Mine (Ft. MC Breed).mp3
+217:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/89-2Pac - God Bless The Dead.mp3
+218:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/90-2Pac - Who Do U Believe In (Ft. Kadafi Of The Outlawz).mp3
+219:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/91-2Pac - Heaven Ain't Hard To Find.mp3
+220:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/92-2Pac - Ghetto Gospel (Ft. Elton John).mp3
+221:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/93-2Pac - Bury Me A G (Ft. Natasha Walker Of Y.N.V.).mp3
+222:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/94-2Pac - Out On Bail.mp3
+223:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/95-2Pac - Check Out Time (Ft. Big Syke, Kurupt & Natasha Walker).mp3
+224:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/96-2Pac - Thugs Get Lonely Too (Ft. Nate Dogg).mp3
+225:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/97-2Pac - We Do This (Ft. Mc Breed, Too Short).mp3
+226:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/98-2Pac - Military Minds (Ft. CoCo Brothers & Buckshot).mp3
+227:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/99-2Pac - 16 On Deathrow.mp3
+228:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/100-2Pac - When We Ride (Ft. Outlaw Immortalz).mp3
+229:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/101-2Pac - Runnin' (Dying To Live) (Ft. Notorious BIG).mp3
+230:50 cent/P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit.mp3
+231:50 cent/Psycho (Feat. Eminem).mp3
+232:50 cent/Gangstas Delight.mp3
+233:50 cent/Crime Wave.mp3
+234:50 cent/So Disrespectful.mp3
+235:50 cent/I Got Swag.mp3
+236:50 cent/Flight 187.mp3
+237:50 cent/OK Youre Right.mp3
+238:50 cent/Get Up.mp3
+239:50 cent/I Run Ny.mp3
+240:50 cent/I Warned You.mp3
+241:50 cent/Pimp Part 2.mp3
+242:50 cent/When You Hear That.mp3
+243:50 cent/Bump Dat.mp3
+244:50 cent/The Banks Workout.mp3
+245:50 cent/Whoo Kid Shit.mp3
+246:50 cent/Just Fuckin Around.mp3
+247:50 cent/Got Me A Bottle.mp3
+248:50 cent/Tony Yayo Explosion.mp3
+249:50 cent/A Lil Bit Of Everything.mp3
+250:50 cent/Many Men.mp3
+251:50 cent/What Up Gangsta.mp3
+252:50 cent/Patiently Waiting ( Feat  Eminem).mp3
+253:50 cent/In Da Club.mp3
+254:50 cent/High All The Time.mp3
+255:50 cent/Heat.mp3
+256:50 cent/If I Cant.mp3
+257:50 cent/Blood Hound (Feat Young Buc).mp3
+258:50 cent/Back Down.mp3
+259:50 cent/Pimp.mp3
+260:50 cent/Like My Style (Feat Tony Yayo).mp3
+261:50 cent/21 Questions (Feat Nate Dogg).mp3
+262:50 cent/Dont Push Me(Feat Eminem And Lloyd Banks).mp3
+263:50 cent/Gotta Get.mp3
+264:50 cent/Wanksta.mp3
+265:50 cent/I Whip Your Head Boy.mp3
+266:50 cent/When It Rains It Pours.mp3
+267:50 cent/killa Tape.mp3
+268:50 cent/Your Life's On The Vine.mp3
+269:50 cent/Be A Gentleman.mp3
+270:50 cent/Corner Bodega.mp3
+271:50 cent/Here We Go.mp3
+272:50 cent/Doin My Own Thing.mp3
+273:50 cent/She Luv It.mp3
+274:50 cent/Die For Me.mp3
+275:50 cent/Heaven Hell.mp3
+276:50 cent/Banks Victory.mp3
+277:50 cent/After My Chedda.mp3
+278:50 cent/In My Hood.mp3
+279:50 cent/This Is 50.mp3
+280:50 cent/Piggy Bank.mp3
+281:50 cent/Gatman And Robbin (Feat Eminem).mp3
+282:50 cent/Candy Shop (Feat Olivia).mp3
+283:50 cent/Outta Control.mp3
+284:50 cent/Get In My Car.mp3
+285:50 cent/Ski Mask Way.mp3
+286:50 cent/A Baltimore Love Thing.mp3
+287:50 cent/Disco Inferno.mp3
+288:50 cent/Just A Lil Bit.mp3
+289:50 cent/Build You Up (Feat Jamie Foxx).mp3
+290:50 cent/So Amazing (Feat Olivia).mp3
+291:Adao Negro-Republica2015/01 reggae, me leve!.mp3
+292:Adao Negro-Republica2015/02 anjo bom.mp3
+293:Adao Negro-Republica2015/03 pele negra.mp3
+294:Adao Negro-Republica2015/04 nem pense em duvidar.mp3
+295:Adao Negro-Republica2015/05 boa malandragem.mp3
+296:Adao Negro-Republica2015/06 adão negro.mp3
+297:Adao Negro-Republica2015/07 abençoa, jah !.mp3
+298:Adao Negro-Republica2015/08 me liga.mp3
+299:Adao Negro-Republica2015/09 eu louvei.mp3
+300:Adao Negro-Republica2015/10 is this love.mp3
+301:Adao Negro-Republica2015/11 A árvore.mp3
+302:Adao Negro-Republica2015/12 louco louco.mp3
+303:Adao Negro-Republica2015/13 feed back.mp3
+304:Adao Negro-Republica2015/14 metal reggae.mp3
+305:Adao Negro-Republica2015/15 botar um.mp3
+306:Adao Negro-Republica2015/16 rede social.mp3
+307:Adao Negro-Republica2015/17 paz de jah.mp3
+308:Bob Marley/Natural Mystic.mp3
+309:Bob Marley/So Much Things To Say.mp3
+310:Bob Marley/The Heathen.mp3
+311:Bob Marley/I Shot The Sheriff.mp3
+312:Bob Marley/Stir It Up.mp3
+313:Bob Marley/Buffalo Soldier.MP3
+314:Bob Marley/Jammin.mp3
+315:Bob Marley/Three Little Birds.mp3
+316:Bob Marley/Running Away.mp3
+317:Bob Marley/Coming In From The Cold.mp3
+318:Bob Marley/Lively Up Yourself.mp3
+319:Bob Marley/Redemption Song (Band Version).mp3
+320:Bob Marley/Who The Cap Fit.mp3
+321:Bob Marley/Rat Race.mp3
+322:Bob Marley/One Love People Get Ready.mp3
+323:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/01- Dezarie - www.clickdovale.com.br.mp3
+324:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/02- Dezarie - www.clickdovale.com.br.mp3
+325:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/03- Dezarie - www.clickdovale.com.br.mp3
+326:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/04- Dezarie - www.clickdovale.com.br.mp3
+327:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/05- Dezarie - www.clickdovale.com.br.mp3
+328:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/06- Dezarie - www.clickdovale.com.br.mp3
+329:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/07- Dezarie - www.clickdovale.com.br.mp3
+330:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/08- Dezarie - www.clickdovale.com.br.mp3
+331:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/09- Dezarie - www.clickdovale.com.br.mp3
+332:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/10- Dezarie - www.clickdovale.com.br.mp3
+333:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/11- Dezarie - www.clickdovale.com.br.mp3
+334:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/12- Dezarie - www.clickdovale.com.br.mp3
+335:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/13- Dezarie - www.clickdovale.com.br.mp3
+336:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/14- Dezarie - www.clickdovale.com.br.mp3
+337:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/15- Dezarie - www.clickdovale.com.br.mp3
+338:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/16- Dezarie - www.clickdovale.com.br.mp3
+339:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/17- Dezarie - www.clickdovale.com.br.mp3
+340:EDCITY - SAMBA DE RODA/11 - Samba da Benção.mp3
+341:EDCITY - SAMBA DE RODA/12 - Melô do Ticatá.mp3
+342:EDCITY - SAMBA DE RODA/15 - Vem Neném.mp3
+343:EDCITY - SAMBA DE RODA/17 - Mela Ela.mp3
+344:EDCITY - SAMBA DE RODA/13 - Rala Mamãe.mp3
+345:EDCITY - SAMBA DE RODA/14 - Cavalinho.mp3
+346:EDCITY - SAMBA DE RODA/19 - Lepo Lepo.mp3
+347:EDCITY - SAMBA DE RODA/00 - Tchebarabada.mp3
+348:EDCITY - SAMBA DE RODA/01 - Gerere E o Tchan.mp3
+349:EDCITY - SAMBA DE RODA/02 - A Santa.mp3
+350:EDCITY - SAMBA DE RODA/03 - Quebre - Sambadinha.mp3
+351:EDCITY - SAMBA DE RODA/04 - Embolê.mp3
+352:EDCITY - SAMBA DE RODA/05 - Maneco Telecoteco - Zumbi.mp3
+353:EDCITY - SAMBA DE RODA/06 - Samba na Minha Terra.mp3
+354:EDCITY - SAMBA DE RODA/07 - Larga o Doce Pivete.mp3
+355:EDCITY - SAMBA DE RODA/08 - Aro 17.mp3
+356:EDCITY - SAMBA DE RODA/09 - Dança do Esquisito.mp3
+357:EDCITY - SAMBA DE RODA/10 - Tortinho.mp3
+358:EDCITY - SAMBA DE RODA/16 - Pout Pourry.mp3
+359:EDCITY - SAMBA DE RODA/18 - Bem Ligeirinho.mp3
+360:Edson Gomes - 2002 - As 20 Melhores/10_SAMARINA.MP3
+361:Edson Gomes - 2002 - As 20 Melhores/17_SANGUE_AZUL.MP3
+362:Edson Gomes - 2002 - As 20 Melhores/18_HOMENS_LIXO.MP3
+363:Edson Gomes - 2002 - As 20 Melhores/19_INQUILINO_DAS_PRIS_ES.MP3
+364:Edson Gomes - 2002 - As 20 Melhores/08_MALANDRINHA.MP3
+365:Edson Gomes - 2002 - As 20 Melhores/02_IRA.MP3
+366:Edson Gomes - 2002 - As 20 Melhores/03_PERDIDO_DE_AMOR.MP3
+367:Edson Gomes - 2002 - As 20 Melhores/01_APOCALYPSE.MP3
+368:Edson Gomes - 2002 - As 20 Melhores/06_CAMEL_.MP3
+369:Edson Gomes - 2002 - As 20 Melhores/05_ETIOPIA.MP3
+370:Edson Gomes - 2002 - As 20 Melhores/07_CAMPO_DE_BATALHA.MP3
+371:Edson Gomes - 2002 - As 20 Melhores/11_CRIMINALIDADE.MP3
+372:Edson Gomes - 2002 - As 20 Melhores/09_FOGO_NA_BABIL_NIA.MP3
+373:Edson Gomes - 2002 - As 20 Melhores/12_DANCE_REGGAE.MP3
+374:Edson Gomes - 2002 - As 20 Melhores/13_NA_SOMBRA_DA_NOITE.MP3
+375:Edson Gomes - 2002 - As 20 Melhores/14__RVORE.MP3
+376:Edson Gomes - 2002 - As 20 Melhores/15_SOMOS_N_S.MP3
+377:Edson Gomes - 2002 - As 20 Melhores/04_O_PAIS___CULPADO.MP3
+378:Edson Gomes - 2002 - As 20 Melhores/16_ACORDE__LEVANTE___LUTE.MP3
+379:Essa É A Nossa Música/A Vida de um Rastaman.mp3
+380:Essa É A Nossa Música/Chances.mp3
+381:Essa É A Nossa Música/Diamante Rubi.mp3
+382:Essa É A Nossa Música/Direitos Iguais.mp3
+383:Essa É A Nossa Música/Dome o Medo.mp3
+384:Essa É A Nossa Música/Estar com Você.mp3
+385:Essa É A Nossa Música/Etiópia Sagrada.mp3
+386:Essa É A Nossa Música/Fio da Fé.mp3
+387:Essa É A Nossa Música/Fogo e Água.mp3
+388:Essa É A Nossa Música/Nossa Música.mp3
+389:Essa É A Nossa Música/Peleja.mp3
+390:Essa É A Nossa Música/Pra Falar de Jah.mp3
+391:Essa É A Nossa Música/Seu Jogo.mp3
+392:Essa É A Nossa Música/Vou me Tacar.mp3
+393:Gregory Isaacs/Confirm Reservation.mp3
+394:Gregory Isaacs/Let's Dance.mp3
+395:Gregory Isaacs/Night Nurse.mp3
+396:Gregory Isaacs/Revenge.mp3
+397:Gregory Isaacs/Sad To Know (You're Leaving).mp3
+398:Gregory Isaacs/Soon Forward.mp3
+399:Gregory Isaacs/Sunday Morning.mp3
+400:Gregory Isaacs/House Of The Rising Sun.mp3
+401:Gregory Isaacs/Hot Stepper.mp3
+402:Gregory Isaacs/Permanent Lover.mp3
+403:Gregory Isaacs/Hush Darling.mp3
+404:Gregory Isaacs/My Only Lover.mp3
+405:Gregory Isaacs/If I Dont Have You.mp3
+406:Gregory Isaacs/Once Ago.mp3
+407:Gregory Isaacs/Wailing Rudie.mp3
+408:Gregory Isaacs/Top Ten.mp3
+409:Gregory Isaacs/Objection Overruled.mp3
+410:Gregory Isaacs/Stranger In Your Town.MP3
+411:Gregory Isaacs/Cool Down the Pace.mp3
+412:Gregory Isaacs/Not the Way.mp3
+413:Gregory Isaacs/Material Man.mp3
+414:Gregory Isaacs/My Number One.mp3
+415:Gregory Isaacs/Sunshine For Me.mp3
+416:Gregory Isaacs/The Border.mp3
+417:Gregory Isaacs/Front Door.mp3
+418:Gregory Isaacs/Out Deh.mp3
+419:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/02 Novinha Pode Pá.mp3
+420:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/06 Bloco Novo.mp3
+421:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/10 Bonde Do Kannario Tá Passando.mp3
+422:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/14 Bloco 2.mp3
+423:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/01 Abertura.mp3
+424:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/03 Desce Quebrando Tudo.mp3
+425:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/04 Sai Da Frente Que Lá Vem A Zorra.mp3
+426:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/05 Tudo Nosso E Nada Deles.mp3
+427:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/07 Então Sarra Reggae.mp3
+428:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/08 Sobe No Passeio.mp3
+429:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/09 Vai Segurando.mp3
+430:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/11 Bloco Das Antigas + Especial.mp3
+431:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/12 Depois De Nós.mp3
+432:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/13 Ginga Da Favela.mp3
+433:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/15 Bloco De Reggae.mp3
+434:Israel Vibration Republica2016/02 - Natty Dread - República do Reggae 2016.mp3
+435:Israel Vibration Republica2016/03 - Racial Discrimination - República do Reggae 2016.mp3
+436:Israel Vibration Republica2016/04 - Walla Walla - República do Reggae 2016.mp3
+437:Israel Vibration Republica2016/05 - Survive - República do Reggae 2016.mp3
+438:Israel Vibration Republica2016/06 - Ball of Fire - República do Reggae 2016.mp3
+439:Israel Vibration Republica2016/07 - Back Stabba - República do Reggae 2016.mp3
+440:Israel Vibration Republica2016/08 - My Master's Will - República do Reggae 2016.mp3
+441:Israel Vibration Republica2016/09 - Mr. Consular Man - República do Reggae 2016.mp3
+442:Israel Vibration Republica2016/10 - Vultures - República do Reggae 2016.mp3
+443:Israel Vibration Republica2016/11 - Why Worry - República do Reggae 2016.mp3
+444:Israel Vibration Republica2016/12 - False Pretense - República do Reggae 2016.mp3
+445:Israel Vibration Republica2016/13 - Licks and Kicks - República do Reggae 2016.mp3
+446:Israel Vibration Republica2016/14 - Same Song - República do Reggae 2016.mp3
+447:Israel Vibration Republica2016/01 - Rockford Rock (Intro) - República do Reggae 2016.mp3
+448:Lafuria2018/01 - ATURA OU SURTA.mp3
+449:Lafuria2018/01 - ETA CARALHO SUCESSO.mp3
+450:Lafuria2018/02 - METENDO BOTANDO SUCESSO.mp3
+451:Lafuria2018/02- CABELO DURO.mp3
+452:Lafuria2018/03 - DA PEREREKA NOVA.mp3
+453:Lafuria2018/03 - TOMA CREU.mp3
+454:Lafuria2018/04 - CABOCA NA BICA NOVA.mp3
+455:Lafuria2018/04 - PASSINHO DOS MALOQUEIROS.mp3
+456:Lafuria2018/05 - MÁGICA DO PUTARIA.mp3
+457:Lafuria2018/05 - POPAYE.mp3
+458:Lafuria2018/06 - PA PA PA.mp3
+459:Lafuria2018/06 - VOU BOTAR.mp3
+460:Lafuria2018/07 - VAI SENTAR.mp3
+461:Lafuria2018/08 - VAI CONTRAINDO.mp3
+462:Lafuria2018/09 - SOCADINHA.mp3
+463:Lafuria2018/10 - SENTA NO CALCANHAR.mp3
+464:Lafuria2018/11 - RESPEITA.mp3
+465:Lafuria2018/12 - SOCA NAS MALOCA.mp3
+466:Lafuria2018/13 - TE AMO VIDA.mp3
+467:Lafuria2018/14 - FLAVINHA.mp3
+468:Lafuria2018/15 - TOMA TOMA.mp3
+469:Lafuria2018/16 - VOU FUGUETAR.mp3
+470:Lucky Duby/Track 01.mp3
+471:Lucky Duby/Track 05.mp3
+472:Lucky Duby/Track 06.mp3
+473:Lucky Duby/Track 09.mp3
+474:Lucky Duby/Track 11.mp3
+475:Lucky Duby/Track 12.mp3
+476:Lucky Duby/Track 14.mp3
+477:Lucky Duby/Track 15.mp3
+478:Lucky Duby/Track 17.mp3
+479:Lucky Duby/Slave (2).mp3
+480:Lucky Duby/Prisoner (2).mp3
+481:Lucky Duby/Victims.mp3
+482:Lucky Duby/Feel Irie.mp3
+483:Lucky Duby/Reggae Strong (2).mp3
+484:Lucky Duby/Remember Me (2).mp3
+485:Lucky Duby/Oh My Son (I'm Sorry).mp3
+486:Lucky Duby/It's Not Easy.mp3
+487:Lucky Duby/Mr DJ.mp3
+488:Lucky Duby/Together as One (2).mp3
+489:Lucky Duby/Peace, Perfect Peace.mp3
+490:Lucky Duby/House of Exile (2).mp3
+491:Lucky Duby/14 Faixa 14.mp3
+492:Lucky Duby/15 Faixa 15.mp3
+493:Lucky Duby/Back To My Roots.MP3
+494:Lucky Duby/Don´t Cry.MP3
+495:Lucky Duby/False Prophet.MP3
+496:Lucky Duby/Guns & Roses.MP3
+497:Lucky Duby/I Want To Know What Love Is.MP3
+498:Lucky Duby/Its Not Easy.mp3
+499:Lucky Duby/Reggae Strong.MP3
+500:Lucky Duby/Release Me.MP3
+501:Lucky Duby/Remember Me.MP3
+502:Lucky Duby/Respect.mp3
+503:Lucky Duby/The Hand That Giveth.MP3
+504:Lucky Duby/Together As One.mp3
+505:Lucky Duby/Slave.MP3
+506:Lucky Duby/Prisoner.MP3
+507:Lucky Duby/House Of Exile.mp3
+508:Lucky Duby/I've Got You Babe.mp3
+509:Metallica - The Greatest Hits 2011/CD 1/01 - One.mp3
+510:Metallica - The Greatest Hits 2011/CD 1/02 - Enter Sandman.mp3
+511:Metallica - The Greatest Hits 2011/CD 1/03 - Master Of Puppets.mp3
+512:Metallica - The Greatest Hits 2011/CD 1/04 - Fade To Black.mp3
+513:Metallica - The Greatest Hits 2011/CD 1/05 - The Unforgiven.mp3
+514:Metallica - The Greatest Hits 2011/CD 1/06 - The Small Hours.mp3
+515:Metallica - The Greatest Hits 2011/CD 1/07 - Seek & Destroy.mp3
+516:Metallica - The Greatest Hits 2011/CD 1/08 - Whiplash.mp3
+517:Metallica - The Greatest Hits 2011/CD 1/09 - Last Caress-Green Hell.mp3
+518:Metallica - The Greatest Hits 2011/CD 1/10 - Sad But True.mp3
+519:Metallica - The Greatest Hits 2011/CD 1/11 - Battery.mp3
+520:Metallica - The Greatest Hits 2011/CD 1/12 - Welcome Home (Sanitarium).mp3
+521:Metallica - The Greatest Hits 2011/CD 1/13 - Metal Militia.mp3
+522:Metallica - The Greatest Hits 2011/CD 2/01 - Fuel.mp3
+523:Metallica - The Greatest Hits 2011/CD 2/02 - Broken, Beat & Scarred.mp3
+524:Metallica - The Greatest Hits 2011/CD 2/03 - Wherever I May Roam.mp3
+525:Metallica - The Greatest Hits 2011/CD 2/04 - Nothing Else Matters.mp3
+526:Metallica - The Greatest Hits 2011/CD 2/05 - Blackened.mp3
+527:Metallica - The Greatest Hits 2011/CD 2/06 - The Shortest Straw.mp3
+528:Metallica - The Greatest Hits 2011/CD 2/07 - Jump In The Fire.mp3
+529:Metallica - The Greatest Hits 2011/CD 2/08 - For Whom The Bell Tolls.mp3
+530:Metallica - The Greatest Hits 2011/CD 2/09 - Creeping Death.mp3
+531:Metallica - The Greatest Hits 2011/CD 2/10 - Trapped Under Ice.mp3
+532:Metallica - The Greatest Hits 2011/CD 2/11 - The Thing That Should Not Be.mp3
+533:Metallica - The Greatest Hits 2011/CD 2/12 - (Anesthesia)-Pulling Teeth.mp3
+534:Metallica - The Greatest Hits 2011/CD 2/13 - Orion (Instramental).mp3
+535:Mv Bill/3 da Madruga.mp3
+536:Mv Bill/A Noite.mp3
+537:Mv Bill/A Vida não acabou não.mp3
+538:Mv Bill/Depoimento De Um Viciado.mp3
+539:Mv Bill/Estilo Vagabundo Part 2.mp3
+540:Mv Bill/Menor do Chapa e Mv Bill - comunidade.mp3
+541:Mv Bill/MV Bill - A Luz.mp3
+542:Mv Bill/MV Bill - Atitude Errada.mp3
+543:Mv Bill/MV Bill - Basquete De Rua.mp3
+544:Mv Bill/MV Bill - Brado Retumbante.mp3
+545:Mv Bill/MV Bill - Como Sobreviver Na Favela.mp3
+546:Mv Bill/MV Bill - CONTRASTE SOCIAL.mp3
+547:Mv Bill/MV Bill - Estilo Vagabundo 3.mp3
+548:Mv Bill/MV Bill - Eu Vou.mp3
+549:Mv Bill/MV Bill - Marquinhos Cabeção.mp3
+550:Mv Bill/Mv Bill - Monstrão ( MP3 ).mp3
+551:Mv Bill/MV Bill - O Soldado que Fica.mp3
+552:Mv Bill/MV Bill - PRA JOGO (part. Kmila CDD, Projota e Rapadura).mp3
+553:Mv Bill/MV Bill - RAIZ (Part. Ramonzin & Nina Black).mp3
+554:Mv Bill/MV Bill - Sem Esquecer Das Favelas.mp3
+555:Mv Bill/MV Bill - Um Crioulo Com Uma Arma.mp3
+556:Mv Bill/MV Bill - Um Tiro.mp3
+557:Mv Bill/MV Bill - Vibe Da Noite.mp3
+558:Mv Bill/MV Bill - Vivo.mp3
+559:Mv Bill/Respeito é pra quem tem.mp3
+560:Mv Bill/Soldado Morto.mp3
+561:Mv Bill/Viela 17 - Pequenos homens [part.Mv Bill].mp3
+562:Mv Bill/Livre pra voar.mp3
+563:Mv Bill/Causa E Efeito.mp3
+564:Mv Bill/O Bonde Não Para.mp3
+565:Mv Bill/Cidadão Refém (Part. Chorão).mp3
+566:Mv Bill/Transformação (Part. Chuck D).mp3
+567:Mv Bill/Corrente.mp3
+568:Mv Bill/Falcão.mp3
+569:Mv Bill/O Bagulho é Doido.mp3
+570:Mv Bill/Falso Profeta (Pára de Caô).mp3
+571:Mv Bill/O Preto em Movimento.mp3
+572:Mv Bill/So Deus Pode Me Julgar.mp3
+573:Mv Bill/Dizem Que Sou Louco.mp3
+574:Mv Bill/Testemunho.mp3
+575:Mv Bill/Dexter- Me Faça Forte.mp3
+576:Mv Bill/Mina de Fé.mp3
+577:Mv Bill/Estilo Vagabundo.mp3
+578:Mv Bill/Marginal Menestrel Remix.mp3
+579:Mv Bill/De Homem Pra Homem.mp3
+580:Mv Bill/Soldado do Morro.mp3
+581:Notorious Big Greatest Hits/17 Big Booty Hoes.mp3
+582:Notorious Big Greatest Hits/18 Would You Die For Me_ (feat. Lil'.mp3
+583:Notorious Big Greatest Hits/19 I Really Want To Show You.mp3
+584:Notorious Big Greatest Hits/10 Hypnotize.mp3
+585:Notorious Big Greatest Hits/11 Kick In The Door.mp3
+586:Notorious Big Greatest Hits/16 I Got A Story To Tell.mp3
+587:Notorious Big Greatest Hits/12 Another (feat. Lil' Kim).mp3
+588:Notorious Big Greatest Hits/13 Going Back To Cali.mp3
+589:Notorious Big Greatest Hits/15 Nasty Boy.mp3
+590:Notorious Big Greatest Hits/14 The World Is Filled (feat. Too.mp3
+591:Notorious Big Greatest Hits/01 Machine Gun Funk.mp3
+592:Notorious Big Greatest Hits/02 Warning.mp3
+593:Notorious Big Greatest Hits/03 Ready To Die.mp3
+594:Notorious Big Greatest Hits/04 One More Chance.mp3
+595:Notorious Big Greatest Hits/05 Juicy.mp3
+596:Notorious Big Greatest Hits/06 Big Poppa.mp3
+597:Notorious Big Greatest Hits/09 Respect.mp3
+598:Notorious Big Greatest Hits/07 Unbelievable.mp3
+599:Notorious Big Greatest Hits/08 Who Shot Ya.mp3
+600:Os africanos/00 - INTRODUÇÃO.mp3
+601:Os africanos/01 - Quanto Mais Xereka Melhor.mp3
+602:Os africanos/02 - Prende Solta [ Nova ].mp3
+603:Os africanos/03 - Vai No Chão [ Nova ].mp3
+604:Os africanos/04 - Plockt Plockt [ Nova ].mp3
+605:Os africanos/05 - Tá Socando [ Nova ].mp3
+606:Os africanos/06 - Senta Na Cobra [ Nova ].mp3
+607:Os africanos/07 - Cobra Pica [ Nova ].mp3
+608:Os africanos/08 - Rabo [ Nova ].mp3
+609:Os africanos/09 - Taco a Madeira.mp3
+610:Os africanos/10 - Piroca Socando.mp3
+611:Os africanos/11 - Socadão.mp3
+612:Os africanos/12 - Deixa Dá a Porra da Xereka.mp3
+613:Os africanos/13 - Jacaré.mp3
+614:Outros/00. ABERTURA REGGAE.mp3
+615:Outros/ADELE-~2.MP3
+616:Outros/Andrew Tosh feat. Olodum - Rastafari Is (Live in Brazil).mp3
+617:Outros/Culture International Herb - Legalise It Live.mp3
+618:Outros/Eric Donaldson - Cherry Oh Baby.mp3
+619:Outros/Filosofia Reggae -Sentimento Bom.mp3
+620:Outros/Kana Plantation (REGGAE FORTAL).mp3
+621:Outros/Max Romeo - Chase The Devil.mp3
+622:Outros/Raimundos - Reggae Do Manêro.mp3
+623:Outros/Siddy Ranks-Never to late.mp3
+624:Outros/1865 (96 Degrees In The Shade).mp3
+625:Outros/Backs E Finos planet hemp.mp3
+626:Outros/Slavery Days.mp3
+627:Outros/Bory Samory.mp3
+628:Outros/Cocody Rock.mp3
+629:Outros/Duane Stephenson - August Town.mp3
+630:Outros/Columbus.mp3
+631:Outros/Jerusalem.mp3
+632:Outros/kevin Isaacs Slim Or Fat.mp3
+633:Outros/Brigadier Sabari.mp3
+634:Outros/Break Us Apart ft. Capleton.mp3
+635:Outros/Dip Them Jah Jah Dip Them.mp3
+636:Outros/Masada.mp3
+637:Outros/America.mp3
+638:Outros/COCO MANBELLE - AMANGNI.mp3
+639:Outros/Back To My roots.mp3
+640:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/01 AQUECIMENTO DAS POTRANCAS - ITABUNA CDS.mp3
+641:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/02 BALALAIKA - ITABUNA CDS.mp3
+642:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/03 TEKILA - ITABUNA CDS.mp3
+643:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/04 ELA BEBE - ITABUNA CDS.mp3
+644:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/05 SENTA NO PAU DE QUEBRADA - ITABUNA CDS.mp3
+645:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/06 OPEN THE TCHEKA - ITABUNA CDS.mp3
+646:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/07 PODE SE SOLTAR - ITABUNA CDS.mp3
+647:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/08 BOTA BOTA - ITABUNA CDS.mp3
+648:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/09 TEKILA PARTE 2 - ITABUNA CDS.mp3
+649:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/10 TOMA TOMA - ITABUNA CDS.mp3
+650:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/11 SENTA NO COLO DO PAI - ITABUNA CDS.mp3
+651:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/12 TU SENTA PRA CARALHO - ITABUNA CDS.mp3
+652:Parangolé - O Novo/01 ABERTURA.mp3
+653:Parangolé - O Novo/02 SEU BUMBUM DANÇANDO.mp3
+654:Parangolé - O Novo/03 SARRA TOMA.mp3
+655:Parangolé - O Novo/04 MOVIMENTO NOVO.mp3
+656:Parangolé - O Novo/05 SOLINHO DEVAGAR.mp3
+657:Parangolé - O Novo/06 BAILE DO PARANGOLÉ (MC LUKA).mp3
+658:Parangolé - O Novo/07 ELA É PODEROSA.mp3
+659:Parangolé - O Novo/08 MOVIMENTO DO PÉ.mp3
+660:Parangolé - O Novo/09 SARRA NA PISTA NOVINHA.mp3
+661:Parangolé - O Novo/10 AGACHAMENTO.mp3
+662:Parangolé - O Novo/11 TE PEGO NO CRAW.mp3
+663:Parangolé - O Novo/12 FLEXIONA.mp3
+664:Parangolé - O Novo/13 ELA TEM O DOM.mp3
+665:Parangolé - O Novo/14 DISPOSIÇÃO.mp3
+666:Parangolé - O Novo/15 RABETÃO (MC LAN).mp3
+667:Pssirico/01 - Violeira-1.mp3
+668:Pssirico/06 - Big Bunda.mp3
+669:Pssirico/07 - Open The Tcheca.mp3
+670:Pssirico/08 - Troinha.mp3
+671:Pssirico/09 - Na Sua Cara.mp3
+672:Pssirico/10 - Encaixa e Toma Sarrada.mp3
+673:Pssirico/11 - Mulheres no Poder.mp3
+674:Pssirico/12 - Cavaco Pandeiro.mp3
+675:Pssirico/13 - Abaixando.mp3
+676:Pssirico/14 - Ar Condicionado.mp3
+677:Pssirico/16 - Procura o Juizo.mp3
+678:Pssirico/17 - Jacaré.mp3
+679:Pssirico/19 - Tega.mp3
+680:Pssirico/20 - Posto Ipiranga.mp3
+681:Pssirico/21 - Claro Que É.mp3
+682:Pssirico/22 - Popo na Piroca.mp3
+683:Pssirico/23 - Tremendo.mp3
+684:Pssirico/24 - Vai Embrazando.mp3
+685:Pssirico/25 - Empina.mp3
+686:Pssirico/26 - Dona Maria.mp3
+687:Pssirico/27 - Abre a Porta Mariquinha.mp3
+688:Pssirico/28 - Roda Jequiti.mp3
+689:Pssirico/29 - Atura ou Surta.mp3
+690:Pssirico/30 - Zuadinha.mp3
+691:Pssirico/31 - Chupetaa.mp3
+692:Racionais Mcs/19.mp3
+693:Racionais Mcs/31.mp3
+694:Racionais Mcs/30.mp3
+695:Racionais Mcs/29.mp3
+696:Racionais Mcs/28.mp3
+697:Racionais Mcs/27.mp3
+698:Racionais Mcs/33.mp3
+699:Racionais Mcs/26.mp3
+700:Racionais Mcs/25.mp3
+701:Racionais Mcs/32.mp3
+702:Racionais Mcs/2.mp3
+703:Racionais Mcs/4.mp3
+704:Racionais Mcs/6.mp3
+705:Racionais Mcs/8.mp3
+706:Racionais Mcs/11.mp3
+707:Racionais Mcs/12.mp3
+708:Racionais Mcs/14.mp3
+709:Racionais Mcs/18.mp3
+710:Racionais Mcs/1.mp3
+711:Racionais Mcs/20.mp3
+712:Racionais Mcs/21.mp3
+713:Racionais Mcs/22.mp3
+714:Racionais Mcs/23.mp3
+715:Racionais Mcs/16.mp3
+716:Racionais Mcs/24.mp3
+717:Racionais Mcs/3.mp3
+718:Racionais Mcs/5.mp3
+719:Racionais Mcs/7.mp3
+720:Racionais Mcs/9.mp3
+721:Racionais Mcs/10.mp3
+722:Racionais Mcs/13.mp3
+723:Racionais Mcs/15.mp3
+724:Racionais Mcs/17.mp3
+725:REGGAE LOVE/REGAE ROMANTICO (2).mp3
+726:REGGAE LOVE/REGAE ROMANTICO (1).mp3
+727:REGGAE LOVE/REGAE ROMANTICO (3).mp3
+728:REGGAE LOVE/REGAE ROMANTICO (6).mp3
+729:REGGAE LOVE/REGAE ROMANTICO (7).mp3
+730:REGGAE LOVE/REGAE ROMANTICO (8).mp3
+731:REGGAE LOVE/REGAE ROMANTICO (9).mp3
+732:REGGAE LOVE/REGAE ROMANTICO (10).mp3
+733:REGGAE LOVE/REGAE ROMANTICO (12).mp3
+734:REGGAE LOVE/REGAE ROMANTICO (13).mp3
+735:REGGAE LOVE/REGAE ROMANTICO (14).mp3
+736:REGGAE LOVE/REGAE ROMANTICO (15).mp3
+737:REGGAE LOVE/REGAE ROMANTICO (16).mp3
+738:Reggae's Greatest-Roots of Reggae Disc 1/01 Get Up Stand Up.mp3
+739:Reggae's Greatest-Roots of Reggae Disc 1/02 Hey There Lonely Girl.mp3
+740:Reggae's Greatest-Roots of Reggae Disc 1/03 I Shot the Sheriff.mp3
+741:Reggae's Greatest-Roots of Reggae Disc 1/04 Sweet Sensation.mp3
+742:Reggae's Greatest-Roots of Reggae Disc 1/05 Money in My Pocket.mp3
+743:Reggae's Greatest-Roots of Reggae Disc 1/06 We Play Reggae.mp3
+744:Reggae's Greatest-Roots of Reggae Disc 1/07 Exodus.mp3
+745:Reggae's Greatest-Roots of Reggae Disc 1/08 Signs and Wonders.mp3
+746:Reggae's Greatest-Roots of Reggae Disc 1/09 Honey.mp3
+747:Reggae's Greatest-Roots of Reggae Disc 1/10 Save the People.mp3
+748:Reggae's Greatest-Roots of Reggae Disc 1/11 The Closer I Get to You.mp3
+749:Reggae's Greatest-Roots of Reggae Disc 1/12 Ram Goat Liver.mp3
+750:Reggae's Greatest-Roots of Reggae Disc 1/13 Something Inside So Strong.mp3
+751:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/01 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+752:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/02 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+753:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/03 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+754:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/04 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+755:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/05 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+756:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/06 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+757:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/07 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+758:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/08 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+759:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/09 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+760:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/10 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+761:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/11 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+762:Snoop Dogg/2 OF Amerikaz Most Wanted.mp3
+763:Snoop Dogg/Dr. Dre  - Still D.R.E. (feat Snoop Dog).mp3
+764:Snoop Dogg/KEEP IT GANGSTER.MP3
+765:Snoop Dogg/Snoop Dogg  ft. Dr. Dre- Smoke Weed Everyday..mp3
+766:Snoop Dogg/Snoop Dogg &amp; Wiz Khalifa - Young, Wild and Free(ft. Bruno Mars).mp3
+767:Snoop Dogg/Tha Dogg Pound ft Snoop Dogg - New York, New York.mp3
+768:Snoop Dogg/Moet (Champagne Room).mp3
+769:Snoop Dogg/NWA feat Snoop Dogg - Chin Check.mp3
+770:Snoop Dogg/The One And Only.mp3
+771:Snoop Dogg/Snop Doggy Dog.mp3
+772:Snoop Dogg/snoop dog ft pharell - beautiful.mp3
+773:Snoop Dogg/Doggfather (feat. Charlie Wilson).mp3
+774:Snoop Dogg/Up Jump Tha Boogie.mp3
+775:Snoop Dogg/Freestyle Conversation.mp3
+776:Snoop Dogg/Snoop Bounce (feat. Charlie Wilson).mp3
+777:Snoop Dogg/Gold Rush.mp3
+778:Snoop Dogg/(Tear 'Em Off) Me & My Doggz.mp3
+779:Snoop Dogg/You Thought (feat. Too $hort & Soopafly).mp3
+780:Snoop Dogg/Groopie (feat. Tha Dogg Pound, Nate Dogg, Warren G & Charlie Wilson).mp3
+781:Snoop Dogg/Sixx Minutes.mp3
+782:Snoop Dogg/Blueberry (feat. Tha Dogg Pound & LBC Crew and Prince Ital Joe).mp3
+783:Snoop Dogg/Doggyland.mp3
+784:Snoop Dogg/Downtown Assassins (feat. Dat Nigga Daz & Tray Deee).mp3
+785:Snoop Dogg/Buck 'Em.mp3
+786:Snoop Dogg/10 LIL' CRIPS..mp3
+787:Snoop Dogg/Lay Low.mp3.mp3
+788:Snoop Dogg/Snoop Dogg Feat Tash & Xzibit - G'z is G'z.mp3
+789:Snoop Dogg/Woof.mp3
+790:Snoop Dogg/Bitch Please.mp3
+791:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+792:Snoop Dogg/Pimp Slapp'd.mp3
+793:Snoop Dogg/WC Ft Snoop Dogg & Nate Dogg - The Streets.mp3
+794:Snoop Dogg/Master P and Snoop Dogg - Down For My Niggas (feat. C-murder and Mystikal).mp3
+795:Snoop Dogg/Chingy feat. Snoop Dogg Dog - Holiday Inn.mp3
+796:Snoop Dogg/Snoop Dogg Ft.Ice Cube - Blasten.mp3
+797:Snoop Dogg/Go away - (ft. kokane).mp3
+798:Snoop Dogg/Daddy Yankee & Snoop Dogg - Gangsta zone.mp3
+799:Snoop Dogg/Snoop's Upside Ya Head.mp3
+800:Snoop Dogg/DR. Dree - Nuthin' but a g thang.mp3
+801:Snoop Dogg/DR. Dree - Wit dre day.mp3
+802:Snoop Dogg/Dr.Dre ft Snoop Dogg - Deep Cover.mp3
+803:Snoop Dogg/Who Am I (What's My Name).mp3
+804:Snoop Dogg/Tha Shiznit.mp3
+805:Snoop Dogg/Lodi Dodi.mp3
+806:Snoop Dogg/Murder Was The Case (Death Afther Visualizing Eterni.mp3
+807:Snoop Dogg/Lil' Ghetto Boy (Featuring Snoop Dogg & Daz Dillinger).mp3
+808:Snoop Dogg/Vapors.mp3
+809:Snoop Dogg/Still a G thang.mp3
+810:Snoop Dogg/Snoop Dogg- 2001.mp3
+811:Snoop Dogg/I Love My Momma.mp3
+812:Snoop Dogg/Pump Pump.mp3
+813:Snoop Dogg/G Funk Intro.mp3
+814:The Eminem Show/01 Curtains Up (Skit).mp3
+815:The Eminem Show/02 White America.mp3
+816:The Eminem Show/03 Business.mp3
+817:The Eminem Show/04 Cleanin Out My Closet.mp3
+818:The Eminem Show/05 Square Dance.mp3
+819:The Eminem Show/06 The Kiss (Skit).mp3
+820:The Eminem Show/07 Soldier.mp3
+821:The Eminem Show/08 Say Goodbye Hollywood.mp3
+822:The Eminem Show/09 Drips.mp3
+823:The Eminem Show/10 Without Me.mp3
+824:The Eminem Show/11 Paul Rosenberg (Skit).mp3
+825:The Eminem Show/12 Sing for the Moment.mp3
+826:The Eminem Show/13 Superman.mp3
+827:The Eminem Show/14 Hailie's Song.mp3
+828:The Eminem Show/15 Steve Berman (Skit).mp3
+829:The Eminem Show/16 When the Music Stops.mp3
+830:The Eminem Show/17 Say What You Say.mp3
+831:The Eminem Show/18 'Till I Collapse.mp3
+832:The Eminem Show/19 My Dad's Gone Crazy.mp3
+833:The Eminem Show/20 Curtains Close (Skit).mp3
+834:The Gladiators - Alive & Fighting/Naturality.mp3
+835:The Gladiators - Alive & Fighting/Bongo Red.mp3
+836:The Gladiators - Alive & Fighting/Roots Natty.mp3
+837:The Gladiators - Alive & Fighting/Look Is Deceiving.mp3
+838:The Gladiators - Alive & Fighting/Rice And Peas.mp3
+839:The Gladiators - Alive & Fighting/Hello Carrol.mp3
+840:The Gladiators - Alive & Fighting/Write To Me.mp3
+841:The Gladiators - Alive & Fighting/Jah Works.mp3
+842:The Gladiators - Alive & Fighting/Soul Rebel.mp3
+843:The Gladiators - Alive & Fighting/Small Axe.mp3
+844:The Gladiators - Alive & Fighting/Stick a Bush.mp3
+845:The Gladiators - Alive & Fighting/War.mp3
+846:TIMBALADA AO VIVO EM ARACAJU-SE 2004/01 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+847:TIMBALADA AO VIVO EM ARACAJU-SE 2004/02 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+848:TIMBALADA AO VIVO EM ARACAJU-SE 2004/04 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+849:TIMBALADA AO VIVO EM ARACAJU-SE 2004/05 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+850:TIMBALADA AO VIVO EM ARACAJU-SE 2004/06 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+851:TIMBALADA AO VIVO EM ARACAJU-SE 2004/07 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+852:TIMBALADA AO VIVO EM ARACAJU-SE 2004/08 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+853:TIMBALADA AO VIVO EM ARACAJU-SE 2004/09 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+854:TIMBALADA AO VIVO EM ARACAJU-SE 2004/10 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+855:TIMBALADA AO VIVO EM ARACAJU-SE 2004/11 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+856:TIMBALADA AO VIVO EM ARACAJU-SE 2004/12 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+857:TIMBALADA AO VIVO EM ARACAJU-SE 2004/13 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+858:TIMBALADA AO VIVO EM ARACAJU-SE 2004/14 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+859:TIMBALADA AO VIVO EM ARACAJU-SE 2004/15 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+860:TIMBALADA AO VIVO EM ARACAJU-SE 2004/16 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+861:TIMBALADA AO VIVO EM ARACAJU-SE 2004/17 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+862:TIMBALADA AO VIVO EM ARACAJU-SE 2004/18 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+863:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+864:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+865:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+866:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+867:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+868:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+869:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+870:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+871:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+872:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+873:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+874:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+875:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+876:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+877:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+878:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+879:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+880:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+881:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+882:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+883:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+884:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+885:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+886:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+887:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+888:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+889:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+890:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+891:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+892:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+893:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+894:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+895:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+896:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+897:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+898:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+899:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+900:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+901:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+902:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+903:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+904:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+905:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+906:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+907:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+908:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+909:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+910:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+911:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+912:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+913:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+914:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+915:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+916:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+917:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+918:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+919:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+920:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+921:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+922:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+923:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+924:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+925:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+926:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+927:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+928:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+929:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+930:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+931:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+932:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+933:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+934:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+935:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+936:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+937:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+938:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+939:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+940:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+941:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+942:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+943:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+944:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+945:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+946:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+947:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+948:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+949:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+950:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+951:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+952:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+953:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+954:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+955:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+956:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+957:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+958:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+959:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+960:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+961:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+962:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+963:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+964:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+965:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+966:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+967:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+968:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+969:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+970:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+971:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+972:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+973:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+974:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+975:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+976:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+977:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+978:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+979:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+980:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+981:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+982:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+983:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+984:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+985:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+986:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+987:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+988:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+989:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+990:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+991:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+992:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+993:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+994:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+995:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+996:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+997:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+998:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+999:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1000:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1001:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1002:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1003:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+1004:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+1005:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+1006:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+1007:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+1008:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+1009:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+1010:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+1011:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+1012:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+1013:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1014:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1015:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1016:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1017:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+1018:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+1019:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+1020:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+1021:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+1022:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+1023:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+1024:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+1025:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+1026:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+1027:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1028:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1029:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1030:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1031:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+1032:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+1033:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+1034:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+1035:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+1036:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+1037:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+1038:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+1039:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+1040:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+1041:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1042:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1043:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1044:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1045:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+1046:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+1047:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+1048:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+1049:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+1050:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+1051:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+1052:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+1053:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+1054:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+1055:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1056:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1057:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1058:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1059:Lafuria2018/01 - ATURA OU SURTA.mp3
+1060:Adao Negro-Republica2015/01 reggae, me leve!.mp3
+1061:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/02 Novinha Pode Pá.mp3
+1062:Adao Negro-Republica2015/02 anjo bom.mp3
+1063:Lafuria2018/02- CABELO DURO.mp3
+1064:Lafuria2018/03 - TOMA CREU.mp3
+1065:Adao Negro-Republica2015/03 pele negra.mp3
+1066:Lafuria2018/04 - PASSINHO DOS MALOQUEIROS.mp3
+1067:Adao Negro-Republica2015/04 nem pense em duvidar.mp3
+1068:Lafuria2018/05 - POPAYE.mp3
+1069:Adao Negro-Republica2015/05 boa malandragem.mp3
+1070:Lafuria2018/06 - PA PA PA.mp3
+1071:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/06 Bloco Novo.mp3
+1072:Adao Negro-Republica2015/06 adão negro.mp3
+1073:Lafuria2018/07 - VAI SENTAR.mp3
+1074:Adao Negro-Republica2015/07 abençoa, jah !.mp3
+1075:Lafuria2018/08 - VAI CONTRAINDO.mp3
+1076:Adao Negro-Republica2015/08 me liga.mp3
+1077:Lafuria2018/09 - SOCADINHA.mp3
+1078:Adao Negro-Republica2015/09 eu louvei.mp3
+1079:Lafuria2018/10 - SENTA NO CALCANHAR.mp3
+1080:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/10 Bonde Do Kannario Tá Passando.mp3
+1081:Adao Negro-Republica2015/10 is this love.mp3
+1082:Lafuria2018/11 - RESPEITA.mp3
+1083:Adao Negro-Republica2015/11 A árvore.mp3
+1084:Lafuria2018/12 - SOCA NAS MALOCA.mp3
+1085:Adao Negro-Republica2015/12 louco louco.mp3
+1086:Lafuria2018/13 - TE AMO VIDA.mp3
+1087:Adao Negro-Republica2015/13 feed back.mp3
+1088:Lafuria2018/14 - FLAVINHA.mp3
+1089:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/14 Bloco 2.mp3
+1090:Adao Negro-Republica2015/14 metal reggae.mp3
+1091:Lafuria2018/15 - TOMA TOMA.mp3
+1092:Adao Negro-Republica2015/15 botar um.mp3
+1093:Lafuria2018/16 - VOU FUGUETAR.mp3
+1094:Adao Negro-Republica2015/16 rede social.mp3
+1095:Adao Negro-Republica2015/17 paz de jah.mp3
+1096:Mv Bill/3 da Madruga.mp3
+1097:Essa É A Nossa Música/A Vida de um Rastaman.mp3
+1098:Mv Bill/A Vida não acabou não.mp3
+1099:Outros/ADELE-~2.MP3
+1100:Outros/Andrew Tosh feat. Olodum - Rastafari Is (Live in Brazil).mp3
+1101:Essa É A Nossa Música/Chances.mp3
+1102:Outros/Culture International Herb - Legalise It Live.mp3
+1103:Mv Bill/Depoimento De Um Viciado.mp3
+1104:Essa É A Nossa Música/Diamante Rubi.mp3
+1105:Essa É A Nossa Música/Direitos Iguais.mp3
+1106:Essa É A Nossa Música/Dome o Medo.mp3
+1107:Outros/Eric Donaldson - Cherry Oh Baby.mp3
+1108:Essa É A Nossa Música/Estar com Você.mp3
+1109:Mv Bill/Estilo Vagabundo Part 2.mp3
+1110:Essa É A Nossa Música/Etiópia Sagrada.mp3
+1111:Outros/Filosofia Reggae -Sentimento Bom.mp3
+1112:Essa É A Nossa Música/Fio da Fé.mp3
+1113:Essa É A Nossa Música/Fogo e Água.mp3
+1114:Outros/Kana Plantation (REGGAE FORTAL).mp3
+1115:Gregory Isaacs/Let's Dance.mp3
+1116:Mv Bill/MV Bill - A Luz.mp3
+1117:Mv Bill/MV Bill - Atitude Errada.mp3
+1118:Mv Bill/MV Bill - Basquete De Rua.mp3
+1119:Mv Bill/MV Bill - Brado Retumbante.mp3
+1120:Mv Bill/MV Bill - CONTRASTE SOCIAL.mp3
+1121:Mv Bill/MV Bill - Como Sobreviver Na Favela.mp3
+1122:Mv Bill/MV Bill - Estilo Vagabundo 3.mp3
+1123:Mv Bill/MV Bill - Eu Vou.mp3
+1124:Mv Bill/MV Bill - Marquinhos Cabeção.mp3
+1125:Mv Bill/MV Bill - O Soldado que Fica.mp3
+1126:Mv Bill/MV Bill - PRA JOGO (part. Kmila CDD, Projota e Rapadura).mp3
+1127:Mv Bill/MV Bill - RAIZ (Part. Ramonzin & Nina Black).mp3
+1128:Mv Bill/MV Bill - Sem Esquecer Das Favelas.mp3
+1129:Mv Bill/MV Bill - Um Crioulo Com Uma Arma.mp3
+1130:Mv Bill/MV Bill - Um Tiro.mp3
+1131:Mv Bill/MV Bill - Vibe Da Noite.mp3
+1132:Mv Bill/MV Bill - Vivo.mp3
+1133:Outros/Max Romeo - Chase The Devil.mp3
+1134:Mv Bill/Mv Bill - Monstrão ( MP3 ).mp3
+1135:Gregory Isaacs/Night Nurse.mp3
+1136:Essa É A Nossa Música/Nossa Música.mp3
+1137:50 cent/P.I.M.P. (Snoop Dogg Remix) ft. Snoop Dogg, G-Unit.mp3
+1138:Essa É A Nossa Música/Peleja.mp3
+1139:Essa É A Nossa Música/Pra Falar de Jah.mp3
+1140:Mv Bill/Respeito é pra quem tem.mp3
+1141:Gregory Isaacs/Revenge.mp3
+1142:Gregory Isaacs/Sad To Know (You're Leaving).mp3
+1143:Essa É A Nossa Música/Seu Jogo.mp3
+1144:Outros/Siddy Ranks-Never to late.mp3
+1145:Snoop Dogg/Snoop Dogg  ft. Dr. Dre- Smoke Weed Everyday..mp3
+1146:Snoop Dogg/Snoop Dogg &amp; Wiz Khalifa - Young, Wild and Free(ft. Bruno Mars).mp3
+1147:Mv Bill/Soldado Morto.mp3
+1148:Gregory Isaacs/Soon Forward.mp3
+1149:Gregory Isaacs/Sunday Morning.mp3
+1150:Snoop Dogg/Tha Dogg Pound ft Snoop Dogg - New York, New York.mp3
+1151:Mv Bill/Viela 17 - Pequenos homens [part.Mv Bill].mp3
+1152:Essa É A Nossa Música/Vou me Tacar.mp3
+1153:Parangolé - O Novo/01 ABERTURA.mp3
+1154:Mv Bill/Livre pra voar.mp3
+1155:Parangolé - O Novo/02 SEU BUMBUM DANÇANDO.mp3
+1156:Parangolé - O Novo/03 SARRA TOMA.mp3
+1157:Parangolé - O Novo/04 MOVIMENTO NOVO.mp3
+1158:Parangolé - O Novo/05 SOLINHO DEVAGAR.mp3
+1159:Parangolé - O Novo/06 BAILE DO PARANGOLÉ (MC LUKA).mp3
+1160:Parangolé - O Novo/07 ELA É PODEROSA.mp3
+1161:Parangolé - O Novo/08 MOVIMENTO DO PÉ.mp3
+1162:Parangolé - O Novo/09 SARRA NA PISTA NOVINHA.mp3
+1163:Parangolé - O Novo/10 AGACHAMENTO.mp3
+1164:Parangolé - O Novo/11 TE PEGO NO CRAW.mp3
+1165:Parangolé - O Novo/12 FLEXIONA.mp3
+1166:Parangolé - O Novo/13 ELA TEM O DOM.mp3
+1167:Parangolé - O Novo/14 DISPOSIÇÃO.mp3
+1168:Parangolé - O Novo/15 RABETÃO (MC LAN).mp3
+1169:50 cent/Many Men.mp3
+1170:Racionais Mcs/3.mp3
+1171:Racionais Mcs/5.mp3
+1172:Racionais Mcs/7.mp3
+1173:Racionais Mcs/9.mp3
+1174:Racionais Mcs/10.mp3
+1175:Racionais Mcs/13.mp3
+1176:Racionais Mcs/15.mp3
+1177:Racionais Mcs/17.mp3
+1178:Lafuria2018/05 - MÁGICA DO PUTARIA.mp3
+1179:Lafuria2018/01 - ETA CARALHO SUCESSO.mp3
+1180:Lafuria2018/02 - METENDO BOTANDO SUCESSO.mp3
+1181:Lafuria2018/03 - DA PEREREKA NOVA.mp3
+1182:Lafuria2018/04 - CABOCA NA BICA NOVA.mp3
+1183:Lafuria2018/06 - VOU BOTAR.mp3
+1184:Snoop Dogg/Moet (Champagne Room).mp3
+1185:Pssirico/01 - Violeira-1.mp3
+1186:Pssirico/06 - Big Bunda.mp3
+1187:Pssirico/07 - Open The Tcheca.mp3
+1188:Pssirico/08 - Troinha.mp3
+1189:Pssirico/09 - Na Sua Cara.mp3
+1190:Pssirico/10 - Encaixa e Toma Sarrada.mp3
+1191:Pssirico/11 - Mulheres no Poder.mp3
+1192:Pssirico/12 - Cavaco Pandeiro.mp3
+1193:Pssirico/13 - Abaixando.mp3
+1194:Pssirico/14 - Ar Condicionado.mp3
+1195:Pssirico/16 - Procura o Juizo.mp3
+1196:Pssirico/17 - Jacaré.mp3
+1197:Pssirico/19 - Tega.mp3
+1198:Pssirico/20 - Posto Ipiranga.mp3
+1199:Pssirico/21 - Claro Que É.mp3
+1200:Pssirico/22 - Popo na Piroca.mp3
+1201:Pssirico/23 - Tremendo.mp3
+1202:Pssirico/24 - Vai Embrazando.mp3
+1203:Pssirico/25 - Empina.mp3
+1204:Pssirico/26 - Dona Maria.mp3
+1205:Pssirico/27 - Abre a Porta Mariquinha.mp3
+1206:Pssirico/28 - Roda Jequiti.mp3
+1207:Pssirico/29 - Atura ou Surta.mp3
+1208:Pssirico/30 - Zuadinha.mp3
+1209:Pssirico/31 - Chupetaa.mp3
+1210:EDCITY - SAMBA DE RODA/13 - Rala Mamãe.mp3
+1211:EDCITY - SAMBA DE RODA/19 - Lepo Lepo.mp3
+1212:Bob Marley/Buffalo Soldier.MP3
+1213:EDCITY - SAMBA DE RODA/14 - Cavalinho.mp3
+1214:Outros/00. ABERTURA REGGAE.mp3
+1215:Racionais Mcs/19.mp3
+1216:Racionais Mcs/31.mp3
+1217:Racionais Mcs/30.mp3
+1218:Racionais Mcs/29.mp3
+1219:Racionais Mcs/28.mp3
+1220:Racionais Mcs/27.mp3
+1221:Racionais Mcs/33.mp3
+1222:Racionais Mcs/26.mp3
+1223:Racionais Mcs/25.mp3
+1224:Racionais Mcs/32.mp3
+1225:Racionais Mcs/1.mp3
+1226:Racionais Mcs/20.mp3
+1227:Racionais Mcs/21.mp3
+1228:Racionais Mcs/22.mp3
+1229:Racionais Mcs/23.mp3
+1230:Racionais Mcs/16.mp3
+1231:Racionais Mcs/24.mp3
+1232:Racionais Mcs/2.mp3
+1233:Racionais Mcs/4.mp3
+1234:Racionais Mcs/6.mp3
+1235:Racionais Mcs/8.mp3
+1236:Racionais Mcs/11.mp3
+1237:Racionais Mcs/12.mp3
+1238:Racionais Mcs/14.mp3
+1239:Racionais Mcs/18.mp3
+1240:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/54-2Pac - Same Song (Ft. Digital Underground).mp3
+1241:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/55-2Pac - They Don't Give Fuck About Us (Ft. Outlawz).mp3
+1242:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/65-2Pac - Ghost.mp3
+1243:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/83-2Pac - Outlaw (Ft. Dramacydal).mp3
+1244:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/88-2Pac - Gotta Get Mine (Ft. MC Breed).mp3
+1245:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/72-2Pac - Rebel of the Underground.mp3
+1246:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/79-2Pac - Tha' Lunatic.mp3
+1247:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/81-2Pac - Crooked Ass Nigga.mp3
+1248:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/23-2Pac - Holler If Ya Hear Me.mp3
+1249:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/63-2Pac - Strictly 4 My N.I.G.G.A.Z..mp3
+1250:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/70-2Pac - Strugglin' (Ft. Live Squad).mp3
+1251:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/80-2Pac - 5 Deadly Venomz (Ft. Treach, Apache & Live Squad).mp3
+1252:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/29-2Pac - Pour Out A Lil Liquor (Original Version).mp3
+1253:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/78-2Pac - Str8 Ballin'.mp3
+1254:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/93-2Pac - Bury Me A G (Ft. Natasha Walker Of Y.N.V.).mp3
+1255:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/11-2Pac - If I Die 2Nite.mp3
+1256:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/40-2Pac - Death Around The Corner.mp3
+1257:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/74-2Pac - Young Niggaz.mp3
+1258:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/02-2Pac - California Love (RMX) (Ft. Dr. Dre & Roger Troutman).mp3
+1259:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/06-2Pac - Hail Mary.mp3
+1260:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/13-2Pac - Me and My Girlfriend.mp3
+1261:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/18-2Pac - Against All Odds.mp3
+1262:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/22-2Pac - Intro-Bomb First (My Second Reply).mp3
+1263:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/25-2Pac - To Live & Die in L.A..mp3
+1264:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/30-2Pac - Hold Ya Head.mp3
+1265:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/35-2Pac - White Man'z World.mp3
+1266:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/38-2Pac - Toss it Up.mp3
+1267:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/46-2Pac - Blasphemy.mp3
+1268:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/57-2Pac - Krazy.mp3
+1269:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/66-2Pac - Just Like Daddy.mp3
+1270:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/76-2Pac - Life of an Outlaw.mp3
+1271:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/24-2Pac - I Wonder If Heaven Got a Ghetto.mp3
+1272:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/60-2Pac - Hellrazor.mp3
+1273:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/77-2Pac - Do For Love.mp3
+1274:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/84-2Pac - Nothing to Lose.mp3
+1275:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/01-2Pac - California Love (Original Version) (Ft. Dr. Dre & Roger Troutman).mp3
+1276:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/03-2Pac - Dear Mama.mp3
+1277:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/04-2Pac - Hit 'Em Up.mp3
+1278:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/05-2Pac - I Get Around (Ft. Digital Underground).mp3
+1279:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/07-2Pac - How Do U Want It.mp3
+1280:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/08-2Pac - Keep Ya Head Up.mp3
+1281:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/09-2Pac - I Ain't Mad At Cha (Ft. Danny Boy).mp3
+1282:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/12-2Pac - 2 Of Amerikaz Most Wanted.mp3
+1283:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/14-2Pac - Changes.mp3
+1284:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/15-2Pac - Picture Me Rollin' (Ft. Danny Boy, Big Syke & CPO).mp3
+1285:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/16-2Pac - Temptations.mp3
+1286:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/17-2Pac - Heartz Of Men.mp3
+1287:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/20-2Pac - Troublesome '96.mp3
+1288:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/27-2Pac - So Many Tears.mp3
+1289:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/32-2Pac - Me Against The World.mp3
+1290:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/41-2Pac - Unconditional Love.mp3
+1291:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/43-2Pac - Brenda's Got A Baby.mp3
+1292:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/49-2Pac - How Long Will They Mourn Me (Ft. Nate Dogg).mp3
+1293:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/52-2Pac - Trapped.mp3
+1294:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/89-2Pac - God Bless The Dead.mp3
+1295:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/28-2Pac - BiggieTupac Live Freestyle (Funkmaster Flex).mp3
+1296:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/50-2Pac - Hell 4 A Hustler (Ft. Outlawz).mp3
+1297:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/47-2Pac - Thug Luv (Ft. Bone Thugs-N-Harmony).mp3
+1298:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/26-2Pac - Until The End Of Time.mp3
+1299:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/36-2Pac - Ballad Of A Dead Soulja.mp3
+1300:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/67-2Pac - Letter 2 My Unborn.mp3
+1301:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/87-2Pac - This Ain't Livin.mp3
+1302:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/44-2Pac - When We Ride On Our Enemies.mp3
+1303:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/51-2Pac - Thugz Mansion (Acoustic Version) (Ft. Nas & J. Phoenix).mp3
+1304:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/58-2Pac - Late Night (Ft. Outlawz & DJ Quick).mp3
+1305:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/69-2Pac - Fuck Em All (Ft. The Outlawz).mp3
+1306:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/75-2Pac - My Block (Nitty Remix).mp3
+1307:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/90-2Pac - Who Do U Believe In (Ft. Kadafi Of The Outlawz).mp3
+1308:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/98-2Pac - Military Minds (Ft. CoCo Brothers & Buckshot).mp3
+1309:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/34-2Pac - The Realist Killaz (Ft 50 Cent).mp3
+1310:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/71-2Pac - One Day At A Time (Em's Version) (Ft. The Outlawz).mp3
+1311:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/101-2Pac - Runnin' (Dying To Live) (Ft. Notorious BIG).mp3
+1312:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/10-2Pac - Ambitionz Az A Ridah.mp3
+1313:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/19-2Pac - All Eyez On Me (Ft. Big Syke).mp3
+1314:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/31-2Pac - Can't C Me.mp3
+1315:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/33-2Pac - No More Pain.mp3
+1316:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/37-2Pac - Life Goes On.mp3
+1317:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/42-2Pac - Shorty Wanna Be A Thug.mp3
+1318:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/45-2Pac - Only God Can Judge Me (Feat. Rappin' 4-Tay).mp3
+1319:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/48-2Pac - All Bout U (Ft. Yaki Kadafi, Nate Dogg & Snoop Dogg).mp3
+1320:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/53-2Pac - Scandalouz (Ft. Nate Dogg).mp3
+1321:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/56-2Pac - Wonda Why They Call U Bytch.mp3
+1322:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/59-2Pac - Holla At Me.mp3
+1323:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/61-2Pac - Thug Passion (Ft. Dramacydal, Jewell & Storm).mp3
+1324:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/62-2Pac - Hennessey (Red Spyda Remix) (Ft. EDI & Sleepy Brown).mp3
+1325:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/64-2Pac - Ratha Be Ya Nigga (Ft. Richie Rich).mp3
+1326:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/68-2Pac - Ain't Hard To Find (Ft. The Click, C-Bo, Richie Rich & E-40).mp3
+1327:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/73-2Pac - Got My Mind Made Up (Ft. Method Man and Redman).mp3
+1328:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/82-2Pac - The Uppercut (Ft. EDI. & Young Noble of the Outlawz).mp3
+1329:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/85-2Pac - Run Tha Streetz (Ft. Michel'le, Napoleon & Storm).mp3
+1330:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/86-2Pac - Black Cotton (Ft. Eminem, Kastro & Young Noble of the Outlawz).mp3
+1331:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/91-2Pac - Heaven Ain't Hard To Find.mp3
+1332:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/92-2Pac - Ghetto Gospel (Ft. Elton John).mp3
+1333:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/94-2Pac - Out On Bail.mp3
+1334:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/95-2Pac - Check Out Time (Ft. Big Syke, Kurupt & Natasha Walker).mp3
+1335:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/96-2Pac - Thugs Get Lonely Too (Ft. Nate Dogg).mp3
+1336:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/100-2Pac - When We Ride (Ft. Outlaw Immortalz).mp3
+1337:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/97-2Pac - We Do This (Ft. Mc Breed, Too Short).mp3
+1338:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/39-2Pac - Staring Through My Rear View (Ft. Dwele).mp3
+1339:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/21-2Pac - Smile (Ft. Scarface).mp3
+1340:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/99-2Pac - 16 On Deathrow.mp3
+1341:Snoop Dogg/2 OF Amerikaz Most Wanted.mp3
+1342:50 cent/Bump Dat.mp3
+1343:50 cent/The Banks Workout.mp3
+1344:50 cent/Whoo Kid Shit.mp3
+1345:50 cent/Just Fuckin Around.mp3
+1346:50 cent/Got Me A Bottle.mp3
+1347:50 cent/Tony Yayo Explosion.mp3
+1348:50 cent/A Lil Bit Of Everything.mp3
+1349:50 cent/killa Tape.mp3
+1350:50 cent/Your Life's On The Vine.mp3
+1351:50 cent/Be A Gentleman.mp3
+1352:50 cent/Corner Bodega.mp3
+1353:50 cent/Banks Victory.mp3
+1354:50 cent/After My Chedda.mp3
+1355:50 cent/What Up Gangsta.mp3
+1356:50 cent/Patiently Waiting ( Feat  Eminem).mp3
+1357:50 cent/In Da Club.mp3
+1358:50 cent/High All The Time.mp3
+1359:50 cent/Heat.mp3
+1360:50 cent/If I Cant.mp3
+1361:50 cent/Blood Hound (Feat Young Buc).mp3
+1362:50 cent/Back Down.mp3
+1363:50 cent/Pimp.mp3
+1364:50 cent/Like My Style (Feat Tony Yayo).mp3
+1365:50 cent/21 Questions (Feat Nate Dogg).mp3
+1366:50 cent/Dont Push Me(Feat Eminem And Lloyd Banks).mp3
+1367:50 cent/Gotta Get.mp3
+1368:50 cent/Wanksta.mp3
+1369:50 cent/Here We Go.mp3
+1370:50 cent/Doin My Own Thing.mp3
+1371:50 cent/She Luv It.mp3
+1372:50 cent/Die For Me.mp3
+1373:50 cent/Heaven Hell.mp3
+1374:50 cent/I Run Ny.mp3
+1375:50 cent/I Warned You.mp3
+1376:50 cent/Pimp Part 2.mp3
+1377:50 cent/When You Hear That.mp3
+1378:50 cent/In My Hood.mp3
+1379:50 cent/This Is 50.mp3
+1380:50 cent/Piggy Bank.mp3
+1381:50 cent/Gatman And Robbin (Feat Eminem).mp3
+1382:50 cent/Candy Shop (Feat Olivia).mp3
+1383:50 cent/Outta Control.mp3
+1384:50 cent/Get In My Car.mp3
+1385:50 cent/Ski Mask Way.mp3
+1386:50 cent/A Baltimore Love Thing.mp3
+1387:50 cent/Disco Inferno.mp3
+1388:50 cent/Just A Lil Bit.mp3
+1389:50 cent/Build You Up (Feat Jamie Foxx).mp3
+1390:50 cent/So Amazing (Feat Olivia).mp3
+1391:50 cent/When It Rains It Pours.mp3
+1392:50 cent/I Got Swag.mp3
+1393:50 cent/Flight 187.mp3
+1394:50 cent/OK Youre Right.mp3
+1395:50 cent/Get Up.mp3
+1396:50 cent/Psycho (Feat. Eminem).mp3
+1397:50 cent/Gangstas Delight.mp3
+1398:50 cent/So Disrespectful.mp3
+1399:50 cent/Crime Wave.mp3
+1400:50 cent/I Whip Your Head Boy.mp3
+1401:Outros/America.mp3
+1402:Outros/Brigadier Sabari.mp3
+1403:Outros/Cocody Rock.mp3
+1404:Outros/Masada.mp3
+1405:Outros/Bory Samory.mp3
+1406:Outros/Jerusalem.mp3
+1407:Outros/COCO MANBELLE - AMANGNI.mp3
+1408:REGGAE LOVE/REGAE ROMANTICO (2).mp3
+1409:REGGAE LOVE/REGAE ROMANTICO (1).mp3
+1410:REGGAE LOVE/REGAE ROMANTICO (3).mp3
+1411:REGGAE LOVE/REGAE ROMANTICO (6).mp3
+1412:REGGAE LOVE/REGAE ROMANTICO (7).mp3
+1413:REGGAE LOVE/REGAE ROMANTICO (8).mp3
+1414:REGGAE LOVE/REGAE ROMANTICO (9).mp3
+1415:REGGAE LOVE/REGAE ROMANTICO (10).mp3
+1416:REGGAE LOVE/REGAE ROMANTICO (12).mp3
+1417:REGGAE LOVE/REGAE ROMANTICO (13).mp3
+1418:REGGAE LOVE/REGAE ROMANTICO (14).mp3
+1419:REGGAE LOVE/REGAE ROMANTICO (15).mp3
+1420:REGGAE LOVE/REGAE ROMANTICO (16).mp3
+1421:Outros/Backs E Finos planet hemp.mp3
+1422:Reggae's Greatest-Roots of Reggae Disc 1/02 Hey There Lonely Girl.mp3
+1423:Bob Marley/Natural Mystic.mp3
+1424:Bob Marley/So Much Things To Say.mp3
+1425:Bob Marley/The Heathen.mp3
+1426:Bob Marley/Stir It Up.mp3
+1427:Bob Marley/Jammin.mp3
+1428:Bob Marley/Three Little Birds.mp3
+1429:Bob Marley/Lively Up Yourself.mp3
+1430:Bob Marley/I Shot The Sheriff.mp3
+1431:Bob Marley/Who The Cap Fit.mp3
+1432:Bob Marley/Rat Race.mp3
+1433:Bob Marley/One Love People Get Ready.mp3
+1434:Bob Marley/Coming In From The Cold.mp3
+1435:Bob Marley/Redemption Song (Band Version).mp3
+1436:Bob Marley/Running Away.mp3
+1437:Reggae's Greatest-Roots of Reggae Disc 1/10 Save the People.mp3
+1438:Outros/Columbus.mp3
+1439:Outros/Slavery Days.mp3
+1440:Snoop Dogg/snoop dog ft pharell - beautiful.mp3
+1441:Snoop Dogg/Chingy feat. Snoop Dogg Dog - Holiday Inn.mp3
+1442:The Eminem Show/16 When the Music Stops.mp3
+1443:The Eminem Show/18 'Till I Collapse.mp3
+1444:Snoop Dogg/Daddy Yankee & Snoop Dogg - Gangsta zone.mp3
+1445:Reggae's Greatest-Roots of Reggae Disc 1/11 The Closer I Get to You.mp3
+1446:Mv Bill/Dexter- Me Faça Forte.mp3
+1447:The Eminem Show/13 Superman.mp3
+1448:Snoop Dogg/Dr. Dre  - Still D.R.E. (feat Snoop Dog).mp3
+1449:Snoop Dogg/Dr.Dre ft Snoop Dogg - Deep Cover.mp3
+1450:Snoop Dogg/DR. Dree - Nuthin' but a g thang.mp3
+1451:Snoop Dogg/DR. Dree - Wit dre day.mp3
+1452:Snoop Dogg/Lil' Ghetto Boy (Featuring Snoop Dogg & Daz Dillinger).mp3
+1453:The Eminem Show/17 Say What You Say.mp3
+1454:Outros/Duane Stephenson - August Town.mp3
+1455:EDCITY - SAMBA DE RODA/00 - Tchebarabada.mp3
+1456:EDCITY - SAMBA DE RODA/01 - Gerere E o Tchan.mp3
+1457:EDCITY - SAMBA DE RODA/02 - A Santa.mp3
+1458:EDCITY - SAMBA DE RODA/03 - Quebre - Sambadinha.mp3
+1459:EDCITY - SAMBA DE RODA/04 - Embolê.mp3
+1460:EDCITY - SAMBA DE RODA/05 - Maneco Telecoteco - Zumbi.mp3
+1461:EDCITY - SAMBA DE RODA/06 - Samba na Minha Terra.mp3
+1462:EDCITY - SAMBA DE RODA/07 - Larga o Doce Pivete.mp3
+1463:EDCITY - SAMBA DE RODA/08 - Aro 17.mp3
+1464:EDCITY - SAMBA DE RODA/09 - Dança do Esquisito.mp3
+1465:EDCITY - SAMBA DE RODA/10 - Tortinho.mp3
+1466:EDCITY - SAMBA DE RODA/16 - Pout Pourry.mp3
+1467:EDCITY - SAMBA DE RODA/18 - Bem Ligeirinho.mp3
+1468:Edson Gomes - 2002 - As 20 Melhores/18_HOMENS_LIXO.MP3
+1469:Edson Gomes - 2002 - As 20 Melhores/19_INQUILINO_DAS_PRIS_ES.MP3
+1470:Edson Gomes - 2002 - As 20 Melhores/10_SAMARINA.MP3
+1471:Edson Gomes - 2002 - As 20 Melhores/17_SANGUE_AZUL.MP3
+1472:Edson Gomes - 2002 - As 20 Melhores/08_MALANDRINHA.MP3
+1473:Edson Gomes - 2002 - As 20 Melhores/02_IRA.MP3
+1474:Edson Gomes - 2002 - As 20 Melhores/03_PERDIDO_DE_AMOR.MP3
+1475:Edson Gomes - 2002 - As 20 Melhores/01_APOCALYPSE.MP3
+1476:Edson Gomes - 2002 - As 20 Melhores/06_CAMEL_.MP3
+1477:Edson Gomes - 2002 - As 20 Melhores/05_ETIOPIA.MP3
+1478:Edson Gomes - 2002 - As 20 Melhores/07_CAMPO_DE_BATALHA.MP3
+1479:Edson Gomes - 2002 - As 20 Melhores/11_CRIMINALIDADE.MP3
+1480:Edson Gomes - 2002 - As 20 Melhores/12_DANCE_REGGAE.MP3
+1481:Edson Gomes - 2002 - As 20 Melhores/09_FOGO_NA_BABIL_NIA.MP3
+1482:Edson Gomes - 2002 - As 20 Melhores/13_NA_SOMBRA_DA_NOITE.MP3
+1483:Edson Gomes - 2002 - As 20 Melhores/14__RVORE.MP3
+1484:Edson Gomes - 2002 - As 20 Melhores/15_SOMOS_N_S.MP3
+1485:Edson Gomes - 2002 - As 20 Melhores/04_O_PAIS___CULPADO.MP3
+1486:Edson Gomes - 2002 - As 20 Melhores/16_ACORDE__LEVANTE___LUTE.MP3
+1487:The Eminem Show/01 Curtains Up (Skit).mp3
+1488:The Eminem Show/02 White America.mp3
+1489:The Eminem Show/03 Business.mp3
+1490:The Eminem Show/04 Cleanin Out My Closet.mp3
+1491:The Eminem Show/05 Square Dance.mp3
+1492:The Eminem Show/06 The Kiss (Skit).mp3
+1493:The Eminem Show/07 Soldier.mp3
+1494:The Eminem Show/08 Say Goodbye Hollywood.mp3
+1495:The Eminem Show/10 Without Me.mp3
+1496:The Eminem Show/12 Sing for the Moment.mp3
+1497:The Eminem Show/14 Hailie's Song.mp3
+1498:The Eminem Show/19 My Dad's Gone Crazy.mp3
+1499:The Eminem Show/09 Drips.mp3
+1500:The Eminem Show/15 Steve Berman (Skit).mp3
+1501:The Gladiators - Alive & Fighting/Small Axe.mp3
+1502:The Gladiators - Alive & Fighting/Stick a Bush.mp3
+1503:The Gladiators - Alive & Fighting/War.mp3
+1504:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/01 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1505:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/02 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1506:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/03 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1507:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/04 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1508:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/05 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1509:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/06 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1510:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/07 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1511:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/08 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1512:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/09 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1513:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/10 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1514:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/11 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+1515:Gregory Isaacs/Confirm Reservation.mp3
+1516:Gregory Isaacs/Sunshine For Me.mp3
+1517:Gregory Isaacs/Objection Overruled.mp3
+1518:Gregory Isaacs/Stranger In Your Town.MP3
+1519:Gregory Isaacs/Cool Down the Pace.mp3
+1520:Gregory Isaacs/Not the Way.mp3
+1521:Gregory Isaacs/Material Man.mp3
+1522:Gregory Isaacs/My Number One.mp3
+1523:Gregory Isaacs/Permanent Lover.mp3
+1524:Gregory Isaacs/Hush Darling.mp3
+1525:Gregory Isaacs/My Only Lover.mp3
+1526:Gregory Isaacs/If I Dont Have You.mp3
+1527:Gregory Isaacs/Once Ago.mp3
+1528:Gregory Isaacs/Wailing Rudie.mp3
+1529:Gregory Isaacs/Top Ten.mp3
+1530:Gregory Isaacs/Hot Stepper.mp3
+1531:Gregory Isaacs/The Border.mp3
+1532:Gregory Isaacs/Front Door.mp3
+1533:Gregory Isaacs/Out Deh.mp3
+1534:Gregory Isaacs/House Of The Rising Sun.mp3
+1535:Reggae's Greatest-Roots of Reggae Disc 1/09 Honey.mp3
+1536:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/01 Abertura.mp3
+1537:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/03 Desce Quebrando Tudo.mp3
+1538:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/04 Sai Da Frente Que Lá Vem A Zorra.mp3
+1539:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/05 Tudo Nosso E Nada Deles.mp3
+1540:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/07 Então Sarra Reggae.mp3
+1541:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/08 Sobe No Passeio.mp3
+1542:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/09 Vai Segurando.mp3
+1543:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/11 Bloco Das Antigas + Especial.mp3
+1544:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/12 Depois De Nós.mp3
+1545:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/13 Ginga Da Favela.mp3
+1546:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/15 Bloco De Reggae.mp3
+1547:Reggae's Greatest-Roots of Reggae Disc 1/06 We Play Reggae.mp3
+1548:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/01 AQUECIMENTO DAS POTRANCAS - ITABUNA CDS.mp3
+1549:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/02 BALALAIKA - ITABUNA CDS.mp3
+1550:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/03 TEKILA - ITABUNA CDS.mp3
+1551:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/04 ELA BEBE - ITABUNA CDS.mp3
+1552:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/05 SENTA NO PAU DE QUEBRADA - ITABUNA CDS.mp3
+1553:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/06 OPEN THE TCHEKA - ITABUNA CDS.mp3
+1554:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/07 PODE SE SOLTAR - ITABUNA CDS.mp3
+1555:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/08 BOTA BOTA - ITABUNA CDS.mp3
+1556:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/09 TEKILA PARTE 2 - ITABUNA CDS.mp3
+1557:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/10 TOMA TOMA - ITABUNA CDS.mp3
+1558:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/11 SENTA NO COLO DO PAI - ITABUNA CDS.mp3
+1559:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/12 TU SENTA PRA CARALHO - ITABUNA CDS.mp3
+1560:Israel Vibration Republica2016/02 - Natty Dread - República do Reggae 2016.mp3
+1561:Israel Vibration Republica2016/03 - Racial Discrimination - República do Reggae 2016.mp3
+1562:Israel Vibration Republica2016/04 - Walla Walla - República do Reggae 2016.mp3
+1563:Israel Vibration Republica2016/05 - Survive - República do Reggae 2016.mp3
+1564:Israel Vibration Republica2016/06 - Ball of Fire - República do Reggae 2016.mp3
+1565:Israel Vibration Republica2016/07 - Back Stabba - República do Reggae 2016.mp3
+1566:Israel Vibration Republica2016/08 - My Master's Will - República do Reggae 2016.mp3
+1567:Israel Vibration Republica2016/09 - Mr. Consular Man - República do Reggae 2016.mp3
+1568:Israel Vibration Republica2016/10 - Vultures - República do Reggae 2016.mp3
+1569:Israel Vibration Republica2016/11 - Why Worry - República do Reggae 2016.mp3
+1570:Israel Vibration Republica2016/12 - False Pretense - República do Reggae 2016.mp3
+1571:Israel Vibration Republica2016/13 - Licks and Kicks - República do Reggae 2016.mp3
+1572:Israel Vibration Republica2016/14 - Same Song - República do Reggae 2016.mp3
+1573:Israel Vibration Republica2016/01 - Rockford Rock (Intro) - República do Reggae 2016.mp3
+1574:Reggae's Greatest-Roots of Reggae Disc 1/05 Money in My Pocket.mp3
+1575:Reggae's Greatest-Roots of Reggae Disc 1/08 Signs and Wonders.mp3
+1576:The Eminem Show/20 Curtains Close (Skit).mp3
+1577:Outros/kevin Isaacs Slim Or Fat.mp3
+1578:Lucky Duby/Track 01.mp3
+1579:Lucky Duby/Track 05.mp3
+1580:Lucky Duby/Track 06.mp3
+1581:Lucky Duby/Track 09.mp3
+1582:Lucky Duby/Track 11.mp3
+1583:Lucky Duby/Track 12.mp3
+1584:Lucky Duby/Track 14.mp3
+1585:Lucky Duby/Track 15.mp3
+1586:Lucky Duby/Track 17.mp3
+1587:Lucky Duby/Slave (2).mp3
+1588:Lucky Duby/Prisoner (2).mp3
+1589:Lucky Duby/Victims.mp3
+1590:Lucky Duby/Feel Irie.mp3
+1591:Lucky Duby/Reggae Strong (2).mp3
+1592:Lucky Duby/Remember Me (2).mp3
+1593:Lucky Duby/Oh My Son (I'm Sorry).mp3
+1594:Lucky Duby/It's Not Easy.mp3
+1595:Lucky Duby/Mr DJ.mp3
+1596:Lucky Duby/Together as One (2).mp3
+1597:Lucky Duby/Peace, Perfect Peace.mp3
+1598:Lucky Duby/House of Exile (2).mp3
+1599:Lucky Duby/14 Faixa 14.mp3
+1600:Lucky Duby/15 Faixa 15.mp3
+1601:Lucky Duby/Back To My Roots.MP3
+1602:Lucky Duby/Don´t Cry.MP3
+1603:Lucky Duby/False Prophet.MP3
+1604:Lucky Duby/Guns & Roses.MP3
+1605:Lucky Duby/I Want To Know What Love Is.MP3
+1606:Lucky Duby/Its Not Easy.mp3
+1607:Lucky Duby/Reggae Strong.MP3
+1608:Lucky Duby/Release Me.MP3
+1609:Lucky Duby/Remember Me.MP3
+1610:Lucky Duby/The Hand That Giveth.MP3
+1611:Lucky Duby/Together As One.mp3
+1612:Lucky Duby/Slave.MP3
+1613:Lucky Duby/Prisoner.MP3
+1614:Lucky Duby/House Of Exile.mp3
+1615:Lucky Duby/I've Got You Babe.mp3
+1616:Lucky Duby/Respect.mp3
+1617:Reggae's Greatest-Roots of Reggae Disc 1/07 Exodus.mp3
+1618:Reggae's Greatest-Roots of Reggae Disc 1/13 Something Inside So Strong.mp3
+1619:Mv Bill/Menor do Chapa e Mv Bill - comunidade.mp3
+1620:Metallica - The Greatest Hits 2011/CD 1/01 - One.mp3
+1621:Metallica - The Greatest Hits 2011/CD 1/02 - Enter Sandman.mp3
+1622:Metallica - The Greatest Hits 2011/CD 1/03 - Master Of Puppets.mp3
+1623:Metallica - The Greatest Hits 2011/CD 1/04 - Fade To Black.mp3
+1624:Metallica - The Greatest Hits 2011/CD 1/05 - The Unforgiven.mp3
+1625:Metallica - The Greatest Hits 2011/CD 1/06 - The Small Hours.mp3
+1626:Metallica - The Greatest Hits 2011/CD 1/07 - Seek & Destroy.mp3
+1627:Metallica - The Greatest Hits 2011/CD 1/08 - Whiplash.mp3
+1628:Metallica - The Greatest Hits 2011/CD 1/09 - Last Caress-Green Hell.mp3
+1629:Metallica - The Greatest Hits 2011/CD 1/10 - Sad But True.mp3
+1630:Metallica - The Greatest Hits 2011/CD 1/11 - Battery.mp3
+1631:Metallica - The Greatest Hits 2011/CD 1/12 - Welcome Home (Sanitarium).mp3
+1632:Metallica - The Greatest Hits 2011/CD 1/13 - Metal Militia.mp3
+1633:Metallica - The Greatest Hits 2011/CD 2/01 - Fuel.mp3
+1634:Metallica - The Greatest Hits 2011/CD 2/02 - Broken, Beat & Scarred.mp3
+1635:Metallica - The Greatest Hits 2011/CD 2/03 - Wherever I May Roam.mp3
+1636:Metallica - The Greatest Hits 2011/CD 2/04 - Nothing Else Matters.mp3
+1637:Metallica - The Greatest Hits 2011/CD 2/05 - Blackened.mp3
+1638:Metallica - The Greatest Hits 2011/CD 2/06 - The Shortest Straw.mp3
+1639:Metallica - The Greatest Hits 2011/CD 2/07 - Jump In The Fire.mp3
+1640:Metallica - The Greatest Hits 2011/CD 2/08 - For Whom The Bell Tolls.mp3
+1641:Metallica - The Greatest Hits 2011/CD 2/09 - Creeping Death.mp3
+1642:Metallica - The Greatest Hits 2011/CD 2/10 - Trapped Under Ice.mp3
+1643:Metallica - The Greatest Hits 2011/CD 2/11 - The Thing That Should Not Be.mp3
+1644:Metallica - The Greatest Hits 2011/CD 2/12 - (Anesthesia)-Pulling Teeth.mp3
+1645:Metallica - The Greatest Hits 2011/CD 2/13 - Orion (Instramental).mp3
+1646:Mv Bill/A Noite.mp3
+1647:Mv Bill/Falcão.mp3
+1648:Mv Bill/O Bagulho é Doido.mp3
+1649:Mv Bill/Falso Profeta (Pára de Caô).mp3
+1650:Mv Bill/O Preto em Movimento.mp3
+1651:Mv Bill/So Deus Pode Me Julgar.mp3
+1652:Mv Bill/Estilo Vagabundo.mp3
+1653:Mv Bill/De Homem Pra Homem.mp3
+1654:Mv Bill/Soldado do Morro.mp3
+1655:Mv Bill/Dizem Que Sou Louco.mp3
+1656:Mv Bill/Testemunho.mp3
+1657:Mv Bill/Causa E Efeito.mp3
+1658:Mv Bill/O Bonde Não Para.mp3
+1659:Mv Bill/Cidadão Refém (Part. Chorão).mp3
+1660:Mv Bill/Transformação (Part. Chuck D).mp3
+1661:Mv Bill/Corrente.mp3
+1662:Snoop Dogg/NWA feat Snoop Dogg - Chin Check.mp3
+1663:Os africanos/00 - INTRODUÇÃO.mp3
+1664:Os africanos/01 - Quanto Mais Xereka Melhor.mp3
+1665:Os africanos/02 - Prende Solta [ Nova ].mp3
+1666:Os africanos/03 - Vai No Chão [ Nova ].mp3
+1667:Os africanos/04 - Plockt Plockt [ Nova ].mp3
+1668:Os africanos/05 - Tá Socando [ Nova ].mp3
+1669:Os africanos/06 - Senta Na Cobra [ Nova ].mp3
+1670:Os africanos/07 - Cobra Pica [ Nova ].mp3
+1671:Os africanos/08 - Rabo [ Nova ].mp3
+1672:Os africanos/09 - Taco a Madeira.mp3
+1673:Os africanos/10 - Piroca Socando.mp3
+1674:Os africanos/11 - Socadão.mp3
+1675:Os africanos/12 - Deixa Dá a Porra da Xereka.mp3
+1676:Os africanos/13 - Jacaré.mp3
+1677:The Eminem Show/11 Paul Rosenberg (Skit).mp3
+1678:Reggae's Greatest-Roots of Reggae Disc 1/12 Ram Goat Liver.mp3
+1679:Outros/Raimundos - Reggae Do Manêro.mp3
+1680:Mv Bill/Mina de Fé.mp3
+1681:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/01- Dezarie - www.clickdovale.com.br.mp3
+1682:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/02- Dezarie - www.clickdovale.com.br.mp3
+1683:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/03- Dezarie - www.clickdovale.com.br.mp3
+1684:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/04- Dezarie - www.clickdovale.com.br.mp3
+1685:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/05- Dezarie - www.clickdovale.com.br.mp3
+1686:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/06- Dezarie - www.clickdovale.com.br.mp3
+1687:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/07- Dezarie - www.clickdovale.com.br.mp3
+1688:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/08- Dezarie - www.clickdovale.com.br.mp3
+1689:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/09- Dezarie - www.clickdovale.com.br.mp3
+1690:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/10- Dezarie - www.clickdovale.com.br.mp3
+1691:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/11- Dezarie - www.clickdovale.com.br.mp3
+1692:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/12- Dezarie - www.clickdovale.com.br.mp3
+1693:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/13- Dezarie - www.clickdovale.com.br.mp3
+1694:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/14- Dezarie - www.clickdovale.com.br.mp3
+1695:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/15- Dezarie - www.clickdovale.com.br.mp3
+1696:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/16- Dezarie - www.clickdovale.com.br.mp3
+1697:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/17- Dezarie - www.clickdovale.com.br.mp3
+1698:Reggae's Greatest-Roots of Reggae Disc 1/01 Get Up Stand Up.mp3
+1699:Snoop Dogg/10 LIL' CRIPS..mp3
+1700:Snoop Dogg/Lay Low.mp3.mp3
+1701:Snoop Dogg/Woof.mp3
+1702:Snoop Dogg/Master P and Snoop Dogg - Down For My Niggas (feat. C-murder and Mystikal).mp3
+1703:Snoop Dogg/Snoop's Upside Ya Head.mp3
+1704:Snoop Dogg/Vapors.mp3
+1705:Snoop Dogg/Still a G thang.mp3
+1706:Snoop Dogg/Snoop Dogg- 2001.mp3
+1707:Snoop Dogg/Who Am I (What's My Name).mp3
+1708:Snoop Dogg/Tha Shiznit.mp3
+1709:Snoop Dogg/Lodi Dodi.mp3
+1710:Snoop Dogg/Murder Was The Case (Death Afther Visualizing Eterni.mp3
+1711:Snoop Dogg/Pump Pump.mp3
+1712:Snoop Dogg/G Funk Intro.mp3
+1713:Snoop Dogg/Doggfather (feat. Charlie Wilson).mp3
+1714:Snoop Dogg/Up Jump Tha Boogie.mp3
+1715:Snoop Dogg/Freestyle Conversation.mp3
+1716:Snoop Dogg/Snoop Bounce (feat. Charlie Wilson).mp3
+1717:Snoop Dogg/Gold Rush.mp3
+1718:Snoop Dogg/(Tear 'Em Off) Me & My Doggz.mp3
+1719:Snoop Dogg/You Thought (feat. Too $hort & Soopafly).mp3
+1720:Snoop Dogg/Groopie (feat. Tha Dogg Pound, Nate Dogg, Warren G & Charlie Wilson).mp3
+1721:Snoop Dogg/Sixx Minutes.mp3
+1722:Snoop Dogg/Blueberry (feat. Tha Dogg Pound & LBC Crew and Prince Ital Joe).mp3
+1723:Snoop Dogg/Doggyland.mp3
+1724:Snoop Dogg/Downtown Assassins (feat. Dat Nigga Daz & Tray Deee).mp3
+1725:Snoop Dogg/Buck 'Em.mp3
+1726:Snoop Dogg/Snop Doggy Dog.mp3
+1727:Snoop Dogg/Pimp Slapp'd.mp3
+1728:Snoop Dogg/The One And Only.mp3
+1729:Snoop Dogg/Snoop Dogg Feat Tash & Xzibit - G'z is G'z.mp3
+1730:Snoop Dogg/Snoop Dogg Ft.Ice Cube - Blasten.mp3
+1731:Snoop Dogg/Go away - (ft. kokane).mp3
+1732:Snoop Dogg/Bitch Please.mp3
+1733:Snoop Dogg/I Love My Momma.mp3
+1734:Snoop Dogg/KEEP IT GANGSTER.MP3
+1735:Outros/Back To My roots.mp3
+1736:Outros/Break Us Apart ft. Capleton.mp3
+1737:Reggae's Greatest-Roots of Reggae Disc 1/03 I Shot the Sheriff.mp3
+1738:The Gladiators - Alive & Fighting/Naturality.mp3
+1739:The Gladiators - Alive & Fighting/Bongo Red.mp3
+1740:The Gladiators - Alive & Fighting/Roots Natty.mp3
+1741:The Gladiators - Alive & Fighting/Look Is Deceiving.mp3
+1742:The Gladiators - Alive & Fighting/Rice And Peas.mp3
+1743:The Gladiators - Alive & Fighting/Hello Carrol.mp3
+1744:The Gladiators - Alive & Fighting/Write To Me.mp3
+1745:The Gladiators - Alive & Fighting/Jah Works.mp3
+1746:The Gladiators - Alive & Fighting/Soul Rebel.mp3
+1747:Reggae's Greatest-Roots of Reggae Disc 1/04 Sweet Sensation.mp3
+1748:Notorious Big Greatest Hits/17 Big Booty Hoes.mp3
+1749:Notorious Big Greatest Hits/18 Would You Die For Me_ (feat. Lil'.mp3
+1750:Notorious Big Greatest Hits/19 I Really Want To Show You.mp3
+1751:Notorious Big Greatest Hits/10 Hypnotize.mp3
+1752:Notorious Big Greatest Hits/11 Kick In The Door.mp3
+1753:Notorious Big Greatest Hits/16 I Got A Story To Tell.mp3
+1754:Notorious Big Greatest Hits/12 Another (feat. Lil' Kim).mp3
+1755:Notorious Big Greatest Hits/13 Going Back To Cali.mp3
+1756:Notorious Big Greatest Hits/15 Nasty Boy.mp3
+1757:Notorious Big Greatest Hits/14 The World Is Filled (feat. Too.mp3
+1758:Notorious Big Greatest Hits/01 Machine Gun Funk.mp3
+1759:Notorious Big Greatest Hits/02 Warning.mp3
+1760:Notorious Big Greatest Hits/03 Ready To Die.mp3
+1761:Notorious Big Greatest Hits/04 One More Chance.mp3
+1762:Notorious Big Greatest Hits/05 Juicy.mp3
+1763:Notorious Big Greatest Hits/06 Big Poppa.mp3
+1764:Notorious Big Greatest Hits/09 Respect.mp3
+1765:Notorious Big Greatest Hits/07 Unbelievable.mp3
+1766:Notorious Big Greatest Hits/08 Who Shot Ya.mp3
+1767:Outros/Dip Them Jah Jah Dip Them.mp3
+1768:Outros/1865 (96 Degrees In The Shade).mp3
+1769:TIMBALADA AO VIVO EM ARACAJU-SE 2004/01 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1770:TIMBALADA AO VIVO EM ARACAJU-SE 2004/02 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1771:TIMBALADA AO VIVO EM ARACAJU-SE 2004/04 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1772:TIMBALADA AO VIVO EM ARACAJU-SE 2004/05 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1773:TIMBALADA AO VIVO EM ARACAJU-SE 2004/06 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1774:TIMBALADA AO VIVO EM ARACAJU-SE 2004/07 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1775:TIMBALADA AO VIVO EM ARACAJU-SE 2004/08 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1776:TIMBALADA AO VIVO EM ARACAJU-SE 2004/09 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1777:TIMBALADA AO VIVO EM ARACAJU-SE 2004/10 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1778:TIMBALADA AO VIVO EM ARACAJU-SE 2004/11 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1779:TIMBALADA AO VIVO EM ARACAJU-SE 2004/12 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1780:TIMBALADA AO VIVO EM ARACAJU-SE 2004/13 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1781:TIMBALADA AO VIVO EM ARACAJU-SE 2004/14 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1782:TIMBALADA AO VIVO EM ARACAJU-SE 2004/15 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1783:TIMBALADA AO VIVO EM ARACAJU-SE 2004/16 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1784:TIMBALADA AO VIVO EM ARACAJU-SE 2004/17 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1785:TIMBALADA AO VIVO EM ARACAJU-SE 2004/18 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+1786:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+1787:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+1788:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+1789:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+1790:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+1791:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+1792:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+1793:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+1794:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+1795:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+1796:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+1797:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+1798:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+1799:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+1800:Mv Bill/Marginal Menestrel Remix.mp3
+1801:Snoop Dogg/WC Ft Snoop Dogg & Nate Dogg - The Streets.mp3
+1802:EDCITY - SAMBA DE RODA/11 - Samba da Benção.mp3
+1803:EDCITY - SAMBA DE RODA/12 - Melô do Ticatá.mp3
+1804:EDCITY - SAMBA DE RODA/15 - Vem Neném.mp3
+1805:EDCITY - SAMBA DE RODA/17 - Mela Ela.mp3
+1806:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1807:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1808:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1809:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1810:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1811:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1812:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1813:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1814:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1815:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1816:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1817:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+1818:EDCITY - SAMBA DE RODA/13 - Rala Mamãe.mp3
+1819:EDCITY - SAMBA DE RODA/19 - Lepo Lepo.mp3
+1820:Bob Marley/Buffalo Soldier.MP3
+1821:EDCITY - SAMBA DE RODA/14 - Cavalinho.mp3
+1822:Outros/00. ABERTURA REGGAE.mp3
+1823:Racionais Mcs/19.mp3
+1824:Racionais Mcs/31.mp3
+1825:Racionais Mcs/30.mp3
+1826:Racionais Mcs/29.mp3
+1827:Racionais Mcs/28.mp3
+1828:Racionais Mcs/27.mp3
+1829:Racionais Mcs/33.mp3
+1830:Racionais Mcs/26.mp3
+1831:Racionais Mcs/25.mp3
+1832:Racionais Mcs/32.mp3
+1833:Racionais Mcs/1.mp3
+1834:Racionais Mcs/20.mp3
+1835:Racionais Mcs/21.mp3
+1836:Racionais Mcs/22.mp3
+1837:Racionais Mcs/23.mp3
+1838:Racionais Mcs/16.mp3
+1839:Racionais Mcs/24.mp3
+1840:Racionais Mcs/2.mp3
+1841:Racionais Mcs/4.mp3
+1842:Racionais Mcs/6.mp3
+1843:Racionais Mcs/8.mp3
+1844:Racionais Mcs/11.mp3
+1845:Racionais Mcs/12.mp3
+1846:Racionais Mcs/14.mp3
+1847:Racionais Mcs/18.mp3
+1848:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/54-2Pac - Same Song (Ft. Digital Underground).mp3
+1849:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/55-2Pac - They Don't Give Fuck About Us (Ft. Outlawz).mp3
+1850:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/65-2Pac - Ghost.mp3
+1851:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/83-2Pac - Outlaw (Ft. Dramacydal).mp3
+1852:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/88-2Pac - Gotta Get Mine (Ft. MC Breed).mp3
+1853:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/72-2Pac - Rebel of the Underground.mp3
+1854:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/79-2Pac - Tha' Lunatic.mp3
+1855:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/81-2Pac - Crooked Ass Nigga.mp3
+1856:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/23-2Pac - Holler If Ya Hear Me.mp3
+1857:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/63-2Pac - Strictly 4 My N.I.G.G.A.Z..mp3
+1858:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/70-2Pac - Strugglin' (Ft. Live Squad).mp3
+1859:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/80-2Pac - 5 Deadly Venomz (Ft. Treach, Apache & Live Squad).mp3
+1860:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/29-2Pac - Pour Out A Lil Liquor (Original Version).mp3
+1861:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/78-2Pac - Str8 Ballin'.mp3
+1862:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/93-2Pac - Bury Me A G (Ft. Natasha Walker Of Y.N.V.).mp3
+1863:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/11-2Pac - If I Die 2Nite.mp3
+1864:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/40-2Pac - Death Around The Corner.mp3
+1865:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/74-2Pac - Young Niggaz.mp3
+1866:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/02-2Pac - California Love (RMX) (Ft. Dr. Dre & Roger Troutman).mp3
+1867:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/06-2Pac - Hail Mary.mp3
+1868:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/13-2Pac - Me and My Girlfriend.mp3
+1869:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/18-2Pac - Against All Odds.mp3
+1870:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/22-2Pac - Intro-Bomb First (My Second Reply).mp3
+1871:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/25-2Pac - To Live & Die in L.A..mp3
+1872:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/30-2Pac - Hold Ya Head.mp3
+1873:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/35-2Pac - White Man'z World.mp3
+1874:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/38-2Pac - Toss it Up.mp3
+1875:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/46-2Pac - Blasphemy.mp3
+1876:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/57-2Pac - Krazy.mp3
+1877:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/66-2Pac - Just Like Daddy.mp3
+1878:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/76-2Pac - Life of an Outlaw.mp3
+1879:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/24-2Pac - I Wonder If Heaven Got a Ghetto.mp3
+1880:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/60-2Pac - Hellrazor.mp3
+1881:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/77-2Pac - Do For Love.mp3
+1882:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/84-2Pac - Nothing to Lose.mp3
+1883:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/01-2Pac - California Love (Original Version) (Ft. Dr. Dre & Roger Troutman).mp3
+1884:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/03-2Pac - Dear Mama.mp3
+1885:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/04-2Pac - Hit 'Em Up.mp3
+1886:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/05-2Pac - I Get Around (Ft. Digital Underground).mp3
+1887:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/07-2Pac - How Do U Want It.mp3
+1888:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/08-2Pac - Keep Ya Head Up.mp3
+1889:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/09-2Pac - I Ain't Mad At Cha (Ft. Danny Boy).mp3
+1890:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/12-2Pac - 2 Of Amerikaz Most Wanted.mp3
+1891:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/14-2Pac - Changes.mp3
+1892:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/15-2Pac - Picture Me Rollin' (Ft. Danny Boy, Big Syke & CPO).mp3
+1893:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/16-2Pac - Temptations.mp3
+1894:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/17-2Pac - Heartz Of Men.mp3
+1895:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/20-2Pac - Troublesome '96.mp3
+1896:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/27-2Pac - So Many Tears.mp3
+1897:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/32-2Pac - Me Against The World.mp3
+1898:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/41-2Pac - Unconditional Love.mp3
+1899:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/43-2Pac - Brenda's Got A Baby.mp3
+1900:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/49-2Pac - How Long Will They Mourn Me (Ft. Nate Dogg).mp3
+1901:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/52-2Pac - Trapped.mp3
+1902:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/89-2Pac - God Bless The Dead.mp3
+1903:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/28-2Pac - BiggieTupac Live Freestyle (Funkmaster Flex).mp3
+1904:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/50-2Pac - Hell 4 A Hustler (Ft. Outlawz).mp3
+1905:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/47-2Pac - Thug Luv (Ft. Bone Thugs-N-Harmony).mp3
+1906:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/26-2Pac - Until The End Of Time.mp3
+1907:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/36-2Pac - Ballad Of A Dead Soulja.mp3
+1908:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/67-2Pac - Letter 2 My Unborn.mp3
+1909:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/87-2Pac - This Ain't Livin.mp3
+1910:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/44-2Pac - When We Ride On Our Enemies.mp3
+1911:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/51-2Pac - Thugz Mansion (Acoustic Version) (Ft. Nas & J. Phoenix).mp3
+1912:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/58-2Pac - Late Night (Ft. Outlawz & DJ Quick).mp3
+1913:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/69-2Pac - Fuck Em All (Ft. The Outlawz).mp3
+1914:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/75-2Pac - My Block (Nitty Remix).mp3
+1915:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/90-2Pac - Who Do U Believe In (Ft. Kadafi Of The Outlawz).mp3
+1916:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/98-2Pac - Military Minds (Ft. CoCo Brothers & Buckshot).mp3
+1917:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/34-2Pac - The Realist Killaz (Ft 50 Cent).mp3
+1918:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/71-2Pac - One Day At A Time (Em's Version) (Ft. The Outlawz).mp3
+1919:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/101-2Pac - Runnin' (Dying To Live) (Ft. Notorious BIG).mp3
+1920:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/10-2Pac - Ambitionz Az A Ridah.mp3
+1921:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/19-2Pac - All Eyez On Me (Ft. Big Syke).mp3
+1922:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/31-2Pac - Can't C Me.mp3
+1923:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/33-2Pac - No More Pain.mp3
+1924:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/37-2Pac - Life Goes On.mp3
+1925:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/42-2Pac - Shorty Wanna Be A Thug.mp3
+1926:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/45-2Pac - Only God Can Judge Me (Feat. Rappin' 4-Tay).mp3
+1927:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/48-2Pac - All Bout U (Ft. Yaki Kadafi, Nate Dogg & Snoop Dogg).mp3
+1928:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/53-2Pac - Scandalouz (Ft. Nate Dogg).mp3
+1929:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/56-2Pac - Wonda Why They Call U Bytch.mp3
+1930:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/59-2Pac - Holla At Me.mp3
+1931:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/61-2Pac - Thug Passion (Ft. Dramacydal, Jewell & Storm).mp3
+1932:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/62-2Pac - Hennessey (Red Spyda Remix) (Ft. EDI & Sleepy Brown).mp3
+1933:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/64-2Pac - Ratha Be Ya Nigga (Ft. Richie Rich).mp3
+1934:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/68-2Pac - Ain't Hard To Find (Ft. The Click, C-Bo, Richie Rich & E-40).mp3
+1935:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/73-2Pac - Got My Mind Made Up (Ft. Method Man and Redman).mp3
+1936:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/82-2Pac - The Uppercut (Ft. EDI. & Young Noble of the Outlawz).mp3
+1937:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/85-2Pac - Run Tha Streetz (Ft. Michel'le, Napoleon & Storm).mp3
+1938:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/86-2Pac - Black Cotton (Ft. Eminem, Kastro & Young Noble of the Outlawz).mp3
+1939:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/91-2Pac - Heaven Ain't Hard To Find.mp3
+1940:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/92-2Pac - Ghetto Gospel (Ft. Elton John).mp3
+1941:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/94-2Pac - Out On Bail.mp3
+1942:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/95-2Pac - Check Out Time (Ft. Big Syke, Kurupt & Natasha Walker).mp3
+1943:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/96-2Pac - Thugs Get Lonely Too (Ft. Nate Dogg).mp3
+1944:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/100-2Pac - When We Ride (Ft. Outlaw Immortalz).mp3
+1945:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/97-2Pac - We Do This (Ft. Mc Breed, Too Short).mp3
+1946:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/39-2Pac - Staring Through My Rear View (Ft. Dwele).mp3
+1947:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/21-2Pac - Smile (Ft. Scarface).mp3
+1948:2Pac - Tupac Amaru Shakur (RapGodFathers.info)/99-2Pac - 16 On Deathrow.mp3
+1949:Snoop Dogg/2 OF Amerikaz Most Wanted.mp3
+1950:50 cent/Bump Dat.mp3
+1951:50 cent/The Banks Workout.mp3
+1952:50 cent/Whoo Kid Shit.mp3
+1953:50 cent/Just Fuckin Around.mp3
+1954:50 cent/Got Me A Bottle.mp3
+1955:50 cent/Tony Yayo Explosion.mp3
+1956:50 cent/A Lil Bit Of Everything.mp3
+1957:50 cent/killa Tape.mp3
+1958:50 cent/Your Life's On The Vine.mp3
+1959:50 cent/Be A Gentleman.mp3
+1960:50 cent/Corner Bodega.mp3
+1961:50 cent/Banks Victory.mp3
+1962:50 cent/After My Chedda.mp3
+1963:50 cent/What Up Gangsta.mp3
+1964:50 cent/Patiently Waiting ( Feat  Eminem).mp3
+1965:50 cent/In Da Club.mp3
+1966:50 cent/High All The Time.mp3
+1967:50 cent/Heat.mp3
+1968:50 cent/If I Cant.mp3
+1969:50 cent/Blood Hound (Feat Young Buc).mp3
+1970:50 cent/Back Down.mp3
+1971:50 cent/Pimp.mp3
+1972:50 cent/Like My Style (Feat Tony Yayo).mp3
+1973:50 cent/21 Questions (Feat Nate Dogg).mp3
+1974:50 cent/Dont Push Me(Feat Eminem And Lloyd Banks).mp3
+1975:50 cent/Gotta Get.mp3
+1976:50 cent/Wanksta.mp3
+1977:50 cent/Here We Go.mp3
+1978:50 cent/Doin My Own Thing.mp3
+1979:50 cent/She Luv It.mp3
+1980:50 cent/Die For Me.mp3
+1981:50 cent/Heaven Hell.mp3
+1982:50 cent/I Run Ny.mp3
+1983:50 cent/I Warned You.mp3
+1984:50 cent/Pimp Part 2.mp3
+1985:50 cent/When You Hear That.mp3
+1986:50 cent/In My Hood.mp3
+1987:50 cent/This Is 50.mp3
+1988:50 cent/Piggy Bank.mp3
+1989:50 cent/Gatman And Robbin (Feat Eminem).mp3
+1990:50 cent/Candy Shop (Feat Olivia).mp3
+1991:50 cent/Outta Control.mp3
+1992:50 cent/Get In My Car.mp3
+1993:50 cent/Ski Mask Way.mp3
+1994:50 cent/A Baltimore Love Thing.mp3
+1995:50 cent/Disco Inferno.mp3
+1996:50 cent/Just A Lil Bit.mp3
+1997:50 cent/Build You Up (Feat Jamie Foxx).mp3
+1998:50 cent/So Amazing (Feat Olivia).mp3
+1999:50 cent/When It Rains It Pours.mp3
+2000:50 cent/I Got Swag.mp3
+2001:50 cent/Flight 187.mp3
+2002:50 cent/OK Youre Right.mp3
+2003:50 cent/Get Up.mp3
+2004:50 cent/Psycho (Feat. Eminem).mp3
+2005:50 cent/Gangstas Delight.mp3
+2006:50 cent/So Disrespectful.mp3
+2007:50 cent/Crime Wave.mp3
+2008:50 cent/I Whip Your Head Boy.mp3
+2009:Outros/America.mp3
+2010:Outros/Brigadier Sabari.mp3
+2011:Outros/Cocody Rock.mp3
+2012:Outros/Masada.mp3
+2013:Outros/Bory Samory.mp3
+2014:Outros/Jerusalem.mp3
+2015:Outros/COCO MANBELLE - AMANGNI.mp3
+2016:REGGAE LOVE/REGAE ROMANTICO (2).mp3
+2017:REGGAE LOVE/REGAE ROMANTICO (1).mp3
+2018:REGGAE LOVE/REGAE ROMANTICO (3).mp3
+2019:REGGAE LOVE/REGAE ROMANTICO (6).mp3
+2020:REGGAE LOVE/REGAE ROMANTICO (7).mp3
+2021:REGGAE LOVE/REGAE ROMANTICO (8).mp3
+2022:REGGAE LOVE/REGAE ROMANTICO (9).mp3
+2023:REGGAE LOVE/REGAE ROMANTICO (10).mp3
+2024:REGGAE LOVE/REGAE ROMANTICO (12).mp3
+2025:REGGAE LOVE/REGAE ROMANTICO (13).mp3
+2026:REGGAE LOVE/REGAE ROMANTICO (14).mp3
+2027:REGGAE LOVE/REGAE ROMANTICO (15).mp3
+2028:REGGAE LOVE/REGAE ROMANTICO (16).mp3
+2029:Outros/Backs E Finos planet hemp.mp3
+2030:Reggae's Greatest-Roots of Reggae Disc 1/02 Hey There Lonely Girl.mp3
+2031:Bob Marley/Natural Mystic.mp3
+2032:Bob Marley/So Much Things To Say.mp3
+2033:Bob Marley/The Heathen.mp3
+2034:Bob Marley/Stir It Up.mp3
+2035:Bob Marley/Jammin.mp3
+2036:Bob Marley/Three Little Birds.mp3
+2037:Bob Marley/Lively Up Yourself.mp3
+2038:Bob Marley/I Shot The Sheriff.mp3
+2039:Bob Marley/Who The Cap Fit.mp3
+2040:Bob Marley/Rat Race.mp3
+2041:Bob Marley/One Love People Get Ready.mp3
+2042:Bob Marley/Coming In From The Cold.mp3
+2043:Bob Marley/Redemption Song (Band Version).mp3
+2044:Bob Marley/Running Away.mp3
+2045:Reggae's Greatest-Roots of Reggae Disc 1/10 Save the People.mp3
+2046:Outros/Columbus.mp3
+2047:Outros/Slavery Days.mp3
+2048:Snoop Dogg/snoop dog ft pharell - beautiful.mp3
+2049:Snoop Dogg/Chingy feat. Snoop Dogg Dog - Holiday Inn.mp3
+2050:The Eminem Show/16 When the Music Stops.mp3
+2051:The Eminem Show/18 'Till I Collapse.mp3
+2052:Snoop Dogg/Daddy Yankee & Snoop Dogg - Gangsta zone.mp3
+2053:Reggae's Greatest-Roots of Reggae Disc 1/11 The Closer I Get to You.mp3
+2054:Mv Bill/Dexter- Me Faça Forte.mp3
+2055:The Eminem Show/13 Superman.mp3
+2056:Snoop Dogg/Dr. Dre  - Still D.R.E. (feat Snoop Dog).mp3
+2057:Snoop Dogg/Dr.Dre ft Snoop Dogg - Deep Cover.mp3
+2058:Snoop Dogg/DR. Dree - Nuthin' but a g thang.mp3
+2059:Snoop Dogg/DR. Dree - Wit dre day.mp3
+2060:Snoop Dogg/Lil' Ghetto Boy (Featuring Snoop Dogg & Daz Dillinger).mp3
+2061:The Eminem Show/17 Say What You Say.mp3
+2062:Outros/Duane Stephenson - August Town.mp3
+2063:EDCITY - SAMBA DE RODA/00 - Tchebarabada.mp3
+2064:EDCITY - SAMBA DE RODA/01 - Gerere E o Tchan.mp3
+2065:EDCITY - SAMBA DE RODA/02 - A Santa.mp3
+2066:EDCITY - SAMBA DE RODA/03 - Quebre - Sambadinha.mp3
+2067:EDCITY - SAMBA DE RODA/04 - Embolê.mp3
+2068:EDCITY - SAMBA DE RODA/05 - Maneco Telecoteco - Zumbi.mp3
+2069:EDCITY - SAMBA DE RODA/06 - Samba na Minha Terra.mp3
+2070:EDCITY - SAMBA DE RODA/07 - Larga o Doce Pivete.mp3
+2071:EDCITY - SAMBA DE RODA/08 - Aro 17.mp3
+2072:EDCITY - SAMBA DE RODA/09 - Dança do Esquisito.mp3
+2073:EDCITY - SAMBA DE RODA/10 - Tortinho.mp3
+2074:EDCITY - SAMBA DE RODA/16 - Pout Pourry.mp3
+2075:EDCITY - SAMBA DE RODA/18 - Bem Ligeirinho.mp3
+2076:Edson Gomes - 2002 - As 20 Melhores/18_HOMENS_LIXO.MP3
+2077:Edson Gomes - 2002 - As 20 Melhores/19_INQUILINO_DAS_PRIS_ES.MP3
+2078:Edson Gomes - 2002 - As 20 Melhores/10_SAMARINA.MP3
+2079:Edson Gomes - 2002 - As 20 Melhores/17_SANGUE_AZUL.MP3
+2080:Edson Gomes - 2002 - As 20 Melhores/08_MALANDRINHA.MP3
+2081:Edson Gomes - 2002 - As 20 Melhores/02_IRA.MP3
+2082:Edson Gomes - 2002 - As 20 Melhores/03_PERDIDO_DE_AMOR.MP3
+2083:Edson Gomes - 2002 - As 20 Melhores/01_APOCALYPSE.MP3
+2084:Edson Gomes - 2002 - As 20 Melhores/06_CAMEL_.MP3
+2085:Edson Gomes - 2002 - As 20 Melhores/05_ETIOPIA.MP3
+2086:Edson Gomes - 2002 - As 20 Melhores/07_CAMPO_DE_BATALHA.MP3
+2087:Edson Gomes - 2002 - As 20 Melhores/11_CRIMINALIDADE.MP3
+2088:Edson Gomes - 2002 - As 20 Melhores/12_DANCE_REGGAE.MP3
+2089:Edson Gomes - 2002 - As 20 Melhores/09_FOGO_NA_BABIL_NIA.MP3
+2090:Edson Gomes - 2002 - As 20 Melhores/13_NA_SOMBRA_DA_NOITE.MP3
+2091:Edson Gomes - 2002 - As 20 Melhores/14__RVORE.MP3
+2092:Edson Gomes - 2002 - As 20 Melhores/15_SOMOS_N_S.MP3
+2093:Edson Gomes - 2002 - As 20 Melhores/04_O_PAIS___CULPADO.MP3
+2094:Edson Gomes - 2002 - As 20 Melhores/16_ACORDE__LEVANTE___LUTE.MP3
+2095:The Eminem Show/01 Curtains Up (Skit).mp3
+2096:The Eminem Show/02 White America.mp3
+2097:The Eminem Show/03 Business.mp3
+2098:The Eminem Show/04 Cleanin Out My Closet.mp3
+2099:The Eminem Show/05 Square Dance.mp3
+2100:The Eminem Show/06 The Kiss (Skit).mp3
+2101:The Eminem Show/07 Soldier.mp3
+2102:The Eminem Show/08 Say Goodbye Hollywood.mp3
+2103:The Eminem Show/10 Without Me.mp3
+2104:The Eminem Show/12 Sing for the Moment.mp3
+2105:The Eminem Show/14 Hailie's Song.mp3
+2106:The Eminem Show/19 My Dad's Gone Crazy.mp3
+2107:The Eminem Show/09 Drips.mp3
+2108:The Eminem Show/15 Steve Berman (Skit).mp3
+2109:The Gladiators - Alive & Fighting/Small Axe.mp3
+2110:The Gladiators - Alive & Fighting/Stick a Bush.mp3
+2111:The Gladiators - Alive & Fighting/War.mp3
+2112:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/01 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2113:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/02 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2114:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/03 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2115:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/04 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2116:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/05 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2117:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/06 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2118:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/07 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2119:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/08 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2120:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/09 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2121:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/10 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2122:Seleção De Reggae Especial Pra Paredão ((Marcelo Cds))/11 Seleção De Reggae Especial Pra Paredão [Graves Topados] ((Marcelo Cds)).mp3
+2123:Gregory Isaacs/Confirm Reservation.mp3
+2124:Gregory Isaacs/Sunshine For Me.mp3
+2125:Gregory Isaacs/Objection Overruled.mp3
+2126:Gregory Isaacs/Stranger In Your Town.MP3
+2127:Gregory Isaacs/Cool Down the Pace.mp3
+2128:Gregory Isaacs/Not the Way.mp3
+2129:Gregory Isaacs/Material Man.mp3
+2130:Gregory Isaacs/My Number One.mp3
+2131:Gregory Isaacs/Permanent Lover.mp3
+2132:Gregory Isaacs/Hush Darling.mp3
+2133:Gregory Isaacs/My Only Lover.mp3
+2134:Gregory Isaacs/If I Dont Have You.mp3
+2135:Gregory Isaacs/Once Ago.mp3
+2136:Gregory Isaacs/Wailing Rudie.mp3
+2137:Gregory Isaacs/Top Ten.mp3
+2138:Gregory Isaacs/Hot Stepper.mp3
+2139:Gregory Isaacs/The Border.mp3
+2140:Gregory Isaacs/Front Door.mp3
+2141:Gregory Isaacs/Out Deh.mp3
+2142:Gregory Isaacs/House Of The Rising Sun.mp3
+2143:Reggae's Greatest-Roots of Reggae Disc 1/09 Honey.mp3
+2144:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/01 Abertura.mp3
+2145:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/03 Desce Quebrando Tudo.mp3
+2146:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/04 Sai Da Frente Que Lá Vem A Zorra.mp3
+2147:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/05 Tudo Nosso E Nada Deles.mp3
+2148:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/07 Então Sarra Reggae.mp3
+2149:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/08 Sobe No Passeio.mp3
+2150:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/09 Vai Segurando.mp3
+2151:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/11 Bloco Das Antigas + Especial.mp3
+2152:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/12 Depois De Nós.mp3
+2153:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/13 Ginga Da Favela.mp3
+2154:IGOR KANNARIO REPERTÓRIO NOVO CD 2018/15 Bloco De Reggae.mp3
+2155:Reggae's Greatest-Roots of Reggae Disc 1/06 We Play Reggae.mp3
+2156:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/01 AQUECIMENTO DAS POTRANCAS - ITABUNA CDS.mp3
+2157:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/02 BALALAIKA - ITABUNA CDS.mp3
+2158:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/03 TEKILA - ITABUNA CDS.mp3
+2159:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/04 ELA BEBE - ITABUNA CDS.mp3
+2160:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/05 SENTA NO PAU DE QUEBRADA - ITABUNA CDS.mp3
+2161:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/06 OPEN THE TCHEKA - ITABUNA CDS.mp3
+2162:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/07 PODE SE SOLTAR - ITABUNA CDS.mp3
+2163:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/08 BOTA BOTA - ITABUNA CDS.mp3
+2164:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/09 TEKILA PARTE 2 - ITABUNA CDS.mp3
+2165:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/10 TOMA TOMA - ITABUNA CDS.mp3
+2166:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/11 SENTA NO COLO DO PAI - ITABUNA CDS.mp3
+2167:PANCADEIXXON CD NOVO 2018 - ITABUNA CDS/12 TU SENTA PRA CARALHO - ITABUNA CDS.mp3
+2168:Israel Vibration Republica2016/02 - Natty Dread - República do Reggae 2016.mp3
+2169:Israel Vibration Republica2016/03 - Racial Discrimination - República do Reggae 2016.mp3
+2170:Israel Vibration Republica2016/04 - Walla Walla - República do Reggae 2016.mp3
+2171:Israel Vibration Republica2016/05 - Survive - República do Reggae 2016.mp3
+2172:Israel Vibration Republica2016/06 - Ball of Fire - República do Reggae 2016.mp3
+2173:Israel Vibration Republica2016/07 - Back Stabba - República do Reggae 2016.mp3
+2174:Israel Vibration Republica2016/08 - My Master's Will - República do Reggae 2016.mp3
+2175:Israel Vibration Republica2016/09 - Mr. Consular Man - República do Reggae 2016.mp3
+2176:Israel Vibration Republica2016/10 - Vultures - República do Reggae 2016.mp3
+2177:Israel Vibration Republica2016/11 - Why Worry - República do Reggae 2016.mp3
+2178:Israel Vibration Republica2016/12 - False Pretense - República do Reggae 2016.mp3
+2179:Israel Vibration Republica2016/13 - Licks and Kicks - República do Reggae 2016.mp3
+2180:Israel Vibration Republica2016/14 - Same Song - República do Reggae 2016.mp3
+2181:Israel Vibration Republica2016/01 - Rockford Rock (Intro) - República do Reggae 2016.mp3
+2182:Reggae's Greatest-Roots of Reggae Disc 1/05 Money in My Pocket.mp3
+2183:Reggae's Greatest-Roots of Reggae Disc 1/08 Signs and Wonders.mp3
+2184:The Eminem Show/20 Curtains Close (Skit).mp3
+2185:Outros/kevin Isaacs Slim Or Fat.mp3
+2186:Lucky Duby/Track 01.mp3
+2187:Lucky Duby/Track 05.mp3
+2188:Lucky Duby/Track 06.mp3
+2189:Lucky Duby/Track 09.mp3
+2190:Lucky Duby/Track 11.mp3
+2191:Lucky Duby/Track 12.mp3
+2192:Lucky Duby/Track 14.mp3
+2193:Lucky Duby/Track 15.mp3
+2194:Lucky Duby/Track 17.mp3
+2195:Lucky Duby/Slave (2).mp3
+2196:Lucky Duby/Prisoner (2).mp3
+2197:Lucky Duby/Victims.mp3
+2198:Lucky Duby/Feel Irie.mp3
+2199:Lucky Duby/Reggae Strong (2).mp3
+2200:Lucky Duby/Remember Me (2).mp3
+2201:Lucky Duby/Oh My Son (I'm Sorry).mp3
+2202:Lucky Duby/It's Not Easy.mp3
+2203:Lucky Duby/Mr DJ.mp3
+2204:Lucky Duby/Together as One (2).mp3
+2205:Lucky Duby/Peace, Perfect Peace.mp3
+2206:Lucky Duby/House of Exile (2).mp3
+2207:Lucky Duby/14 Faixa 14.mp3
+2208:Lucky Duby/15 Faixa 15.mp3
+2209:Lucky Duby/Back To My Roots.MP3
+2210:Lucky Duby/Don´t Cry.MP3
+2211:Lucky Duby/False Prophet.MP3
+2212:Lucky Duby/Guns & Roses.MP3
+2213:Lucky Duby/I Want To Know What Love Is.MP3
+2214:Lucky Duby/Its Not Easy.mp3
+2215:Lucky Duby/Reggae Strong.MP3
+2216:Lucky Duby/Release Me.MP3
+2217:Lucky Duby/Remember Me.MP3
+2218:Lucky Duby/The Hand That Giveth.MP3
+2219:Lucky Duby/Together As One.mp3
+2220:Lucky Duby/Slave.MP3
+2221:Lucky Duby/Prisoner.MP3
+2222:Lucky Duby/House Of Exile.mp3
+2223:Lucky Duby/I've Got You Babe.mp3
+2224:Lucky Duby/Respect.mp3
+2225:Reggae's Greatest-Roots of Reggae Disc 1/07 Exodus.mp3
+2226:Reggae's Greatest-Roots of Reggae Disc 1/13 Something Inside So Strong.mp3
+2227:Mv Bill/Menor do Chapa e Mv Bill - comunidade.mp3
+2228:Metallica - The Greatest Hits 2011/CD 1/01 - One.mp3
+2229:Metallica - The Greatest Hits 2011/CD 1/02 - Enter Sandman.mp3
+2230:Metallica - The Greatest Hits 2011/CD 1/03 - Master Of Puppets.mp3
+2231:Metallica - The Greatest Hits 2011/CD 1/04 - Fade To Black.mp3
+2232:Metallica - The Greatest Hits 2011/CD 1/05 - The Unforgiven.mp3
+2233:Metallica - The Greatest Hits 2011/CD 1/06 - The Small Hours.mp3
+2234:Metallica - The Greatest Hits 2011/CD 1/07 - Seek & Destroy.mp3
+2235:Metallica - The Greatest Hits 2011/CD 1/08 - Whiplash.mp3
+2236:Metallica - The Greatest Hits 2011/CD 1/09 - Last Caress-Green Hell.mp3
+2237:Metallica - The Greatest Hits 2011/CD 1/10 - Sad But True.mp3
+2238:Metallica - The Greatest Hits 2011/CD 1/11 - Battery.mp3
+2239:Metallica - The Greatest Hits 2011/CD 1/12 - Welcome Home (Sanitarium).mp3
+2240:Metallica - The Greatest Hits 2011/CD 1/13 - Metal Militia.mp3
+2241:Metallica - The Greatest Hits 2011/CD 2/01 - Fuel.mp3
+2242:Metallica - The Greatest Hits 2011/CD 2/02 - Broken, Beat & Scarred.mp3
+2243:Metallica - The Greatest Hits 2011/CD 2/03 - Wherever I May Roam.mp3
+2244:Metallica - The Greatest Hits 2011/CD 2/04 - Nothing Else Matters.mp3
+2245:Metallica - The Greatest Hits 2011/CD 2/05 - Blackened.mp3
+2246:Metallica - The Greatest Hits 2011/CD 2/06 - The Shortest Straw.mp3
+2247:Metallica - The Greatest Hits 2011/CD 2/07 - Jump In The Fire.mp3
+2248:Metallica - The Greatest Hits 2011/CD 2/08 - For Whom The Bell Tolls.mp3
+2249:Metallica - The Greatest Hits 2011/CD 2/09 - Creeping Death.mp3
+2250:Metallica - The Greatest Hits 2011/CD 2/10 - Trapped Under Ice.mp3
+2251:Metallica - The Greatest Hits 2011/CD 2/11 - The Thing That Should Not Be.mp3
+2252:Metallica - The Greatest Hits 2011/CD 2/12 - (Anesthesia)-Pulling Teeth.mp3
+2253:Metallica - The Greatest Hits 2011/CD 2/13 - Orion (Instramental).mp3
+2254:Mv Bill/A Noite.mp3
+2255:Mv Bill/Falcão.mp3
+2256:Mv Bill/O Bagulho é Doido.mp3
+2257:Mv Bill/Falso Profeta (Pára de Caô).mp3
+2258:Mv Bill/O Preto em Movimento.mp3
+2259:Mv Bill/So Deus Pode Me Julgar.mp3
+2260:Mv Bill/Estilo Vagabundo.mp3
+2261:Mv Bill/De Homem Pra Homem.mp3
+2262:Mv Bill/Soldado do Morro.mp3
+2263:Mv Bill/Dizem Que Sou Louco.mp3
+2264:Mv Bill/Testemunho.mp3
+2265:Mv Bill/Causa E Efeito.mp3
+2266:Mv Bill/O Bonde Não Para.mp3
+2267:Mv Bill/Cidadão Refém (Part. Chorão).mp3
+2268:Mv Bill/Transformação (Part. Chuck D).mp3
+2269:Mv Bill/Corrente.mp3
+2270:Snoop Dogg/NWA feat Snoop Dogg - Chin Check.mp3
+2271:Os africanos/00 - INTRODUÇÃO.mp3
+2272:Os africanos/01 - Quanto Mais Xereka Melhor.mp3
+2273:Os africanos/02 - Prende Solta [ Nova ].mp3
+2274:Os africanos/03 - Vai No Chão [ Nova ].mp3
+2275:Os africanos/04 - Plockt Plockt [ Nova ].mp3
+2276:Os africanos/05 - Tá Socando [ Nova ].mp3
+2277:Os africanos/06 - Senta Na Cobra [ Nova ].mp3
+2278:Os africanos/07 - Cobra Pica [ Nova ].mp3
+2279:Os africanos/08 - Rabo [ Nova ].mp3
+2280:Os africanos/09 - Taco a Madeira.mp3
+2281:Os africanos/10 - Piroca Socando.mp3
+2282:Os africanos/11 - Socadão.mp3
+2283:Os africanos/12 - Deixa Dá a Porra da Xereka.mp3
+2284:Os africanos/13 - Jacaré.mp3
+2285:The Eminem Show/11 Paul Rosenberg (Skit).mp3
+2286:Reggae's Greatest-Roots of Reggae Disc 1/12 Ram Goat Liver.mp3
+2287:Outros/Raimundos - Reggae Do Manêro.mp3
+2288:Mv Bill/Mina de Fé.mp3
+2289:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/01- Dezarie - www.clickdovale.com.br.mp3
+2290:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/02- Dezarie - www.clickdovale.com.br.mp3
+2291:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/03- Dezarie - www.clickdovale.com.br.mp3
+2292:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/04- Dezarie - www.clickdovale.com.br.mp3
+2293:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/05- Dezarie - www.clickdovale.com.br.mp3
+2294:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/06- Dezarie - www.clickdovale.com.br.mp3
+2295:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/07- Dezarie - www.clickdovale.com.br.mp3
+2296:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/08- Dezarie - www.clickdovale.com.br.mp3
+2297:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/09- Dezarie - www.clickdovale.com.br.mp3
+2298:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/10- Dezarie - www.clickdovale.com.br.mp3
+2299:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/11- Dezarie - www.clickdovale.com.br.mp3
+2300:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/12- Dezarie - www.clickdovale.com.br.mp3
+2301:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/13- Dezarie - www.clickdovale.com.br.mp3
+2302:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/14- Dezarie - www.clickdovale.com.br.mp3
+2303:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/15- Dezarie - www.clickdovale.com.br.mp3
+2304:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/16- Dezarie - www.clickdovale.com.br.mp3
+2305:DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/17- Dezarie - www.clickdovale.com.br.mp3
+2306:Reggae's Greatest-Roots of Reggae Disc 1/01 Get Up Stand Up.mp3
+2307:Snoop Dogg/10 LIL' CRIPS..mp3
+2308:Snoop Dogg/Lay Low.mp3.mp3
+2309:Snoop Dogg/Woof.mp3
+2310:Snoop Dogg/Master P and Snoop Dogg - Down For My Niggas (feat. C-murder and Mystikal).mp3
+2311:Snoop Dogg/Snoop's Upside Ya Head.mp3
+2312:Snoop Dogg/Vapors.mp3
+2313:Snoop Dogg/Still a G thang.mp3
+2314:Snoop Dogg/Snoop Dogg- 2001.mp3
+2315:Snoop Dogg/Who Am I (What's My Name).mp3
+2316:Snoop Dogg/Tha Shiznit.mp3
+2317:Snoop Dogg/Lodi Dodi.mp3
+2318:Snoop Dogg/Murder Was The Case (Death Afther Visualizing Eterni.mp3
+2319:Snoop Dogg/Pump Pump.mp3
+2320:Snoop Dogg/G Funk Intro.mp3
+2321:Snoop Dogg/Doggfather (feat. Charlie Wilson).mp3
+2322:Snoop Dogg/Up Jump Tha Boogie.mp3
+2323:Snoop Dogg/Freestyle Conversation.mp3
+2324:Snoop Dogg/Snoop Bounce (feat. Charlie Wilson).mp3
+2325:Snoop Dogg/Gold Rush.mp3
+2326:Snoop Dogg/(Tear 'Em Off) Me & My Doggz.mp3
+2327:Snoop Dogg/You Thought (feat. Too $hort & Soopafly).mp3
+2328:Snoop Dogg/Groopie (feat. Tha Dogg Pound, Nate Dogg, Warren G & Charlie Wilson).mp3
+2329:Snoop Dogg/Sixx Minutes.mp3
+2330:Snoop Dogg/Blueberry (feat. Tha Dogg Pound & LBC Crew and Prince Ital Joe).mp3
+2331:Snoop Dogg/Doggyland.mp3
+2332:Snoop Dogg/Downtown Assassins (feat. Dat Nigga Daz & Tray Deee).mp3
+2333:Snoop Dogg/Buck 'Em.mp3
+2334:Snoop Dogg/Snop Doggy Dog.mp3
+2335:Snoop Dogg/Pimp Slapp'd.mp3
+2336:Snoop Dogg/The One And Only.mp3
+2337:Snoop Dogg/Snoop Dogg Feat Tash & Xzibit - G'z is G'z.mp3
+2338:Snoop Dogg/Snoop Dogg Ft.Ice Cube - Blasten.mp3
+2339:Snoop Dogg/Go away - (ft. kokane).mp3
+2340:Snoop Dogg/Bitch Please.mp3
+2341:Snoop Dogg/I Love My Momma.mp3
+2342:Snoop Dogg/KEEP IT GANGSTER.MP3
+2343:Outros/Back To My roots.mp3
+2344:Outros/Break Us Apart ft. Capleton.mp3
+2345:Reggae's Greatest-Roots of Reggae Disc 1/03 I Shot the Sheriff.mp3
+2346:The Gladiators - Alive & Fighting/Naturality.mp3
+2347:The Gladiators - Alive & Fighting/Bongo Red.mp3
+2348:The Gladiators - Alive & Fighting/Roots Natty.mp3
+2349:The Gladiators - Alive & Fighting/Look Is Deceiving.mp3
+2350:The Gladiators - Alive & Fighting/Rice And Peas.mp3
+2351:The Gladiators - Alive & Fighting/Hello Carrol.mp3
+2352:The Gladiators - Alive & Fighting/Write To Me.mp3
+2353:The Gladiators - Alive & Fighting/Jah Works.mp3
+2354:The Gladiators - Alive & Fighting/Soul Rebel.mp3
+2355:Reggae's Greatest-Roots of Reggae Disc 1/04 Sweet Sensation.mp3
+2356:Notorious Big Greatest Hits/17 Big Booty Hoes.mp3
+2357:Notorious Big Greatest Hits/18 Would You Die For Me_ (feat. Lil'.mp3
+2358:Notorious Big Greatest Hits/19 I Really Want To Show You.mp3
+2359:Notorious Big Greatest Hits/10 Hypnotize.mp3
+2360:Notorious Big Greatest Hits/11 Kick In The Door.mp3
+2361:Notorious Big Greatest Hits/16 I Got A Story To Tell.mp3
+2362:Notorious Big Greatest Hits/12 Another (feat. Lil' Kim).mp3
+2363:Notorious Big Greatest Hits/13 Going Back To Cali.mp3
+2364:Notorious Big Greatest Hits/15 Nasty Boy.mp3
+2365:Notorious Big Greatest Hits/14 The World Is Filled (feat. Too.mp3
+2366:Notorious Big Greatest Hits/01 Machine Gun Funk.mp3
+2367:Notorious Big Greatest Hits/02 Warning.mp3
+2368:Notorious Big Greatest Hits/03 Ready To Die.mp3
+2369:Notorious Big Greatest Hits/04 One More Chance.mp3
+2370:Notorious Big Greatest Hits/05 Juicy.mp3
+2371:Notorious Big Greatest Hits/06 Big Poppa.mp3
+2372:Notorious Big Greatest Hits/09 Respect.mp3
+2373:Notorious Big Greatest Hits/07 Unbelievable.mp3
+2374:Notorious Big Greatest Hits/08 Who Shot Ya.mp3
+2375:Outros/Dip Them Jah Jah Dip Them.mp3
+2376:Outros/1865 (96 Degrees In The Shade).mp3
+2377:TIMBALADA AO VIVO EM ARACAJU-SE 2004/01 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2378:TIMBALADA AO VIVO EM ARACAJU-SE 2004/02 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2379:TIMBALADA AO VIVO EM ARACAJU-SE 2004/04 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2380:TIMBALADA AO VIVO EM ARACAJU-SE 2004/05 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2381:TIMBALADA AO VIVO EM ARACAJU-SE 2004/06 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2382:TIMBALADA AO VIVO EM ARACAJU-SE 2004/07 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2383:TIMBALADA AO VIVO EM ARACAJU-SE 2004/08 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2384:TIMBALADA AO VIVO EM ARACAJU-SE 2004/09 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2385:TIMBALADA AO VIVO EM ARACAJU-SE 2004/10 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2386:TIMBALADA AO VIVO EM ARACAJU-SE 2004/11 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2387:TIMBALADA AO VIVO EM ARACAJU-SE 2004/12 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2388:TIMBALADA AO VIVO EM ARACAJU-SE 2004/13 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2389:TIMBALADA AO VIVO EM ARACAJU-SE 2004/14 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2390:TIMBALADA AO VIVO EM ARACAJU-SE 2004/15 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2391:TIMBALADA AO VIVO EM ARACAJU-SE 2004/16 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2392:TIMBALADA AO VIVO EM ARACAJU-SE 2004/17 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2393:TIMBALADA AO VIVO EM ARACAJU-SE 2004/18 - Boc@ Cds - Timbalada Em Aracaju-SE 2004.mp3
+2394:Tribo De Jah Pedra De Salão/01. Amor e Compaixão.mp3
+2395:Tribo De Jah Pedra De Salão/02. Trabalhadores Escravos da Babilônia.mp3
+2396:Tribo De Jah Pedra De Salão/03. Ilha do Tesouro.mp3
+2397:Tribo De Jah Pedra De Salão/04. Fique Firme.mp3
+2398:Tribo De Jah Pedra De Salão/05. Pedra do Momento.mp3
+2399:Tribo De Jah Pedra De Salão/06. Jah Está No Controle.mp3
+2400:Tribo De Jah Pedra De Salão/07. Ilha Roots.mp3
+2401:Tribo De Jah Pedra De Salão/08. Warrions.mp3
+2402:Tribo De Jah Pedra De Salão/09. Give Lova A Try.mp3
+2403:Tribo De Jah Pedra De Salão/10. Pedra Menina.mp3
+2404:Tribo De Jah Pedra De Salão/11. Os Tambores de São Luis.mp3
+2405:Tribo De Jah Pedra De Salão/12. Na Lagoinha.mp3
+2406:Tribo De Jah Pedra De Salão/13. Guerrilhas Mentais.mp3
+2407:Tribo De Jah Pedra De Salão/14. Treasure Island.mp3
+2408:Mv Bill/Marginal Menestrel Remix.mp3
+2409:Snoop Dogg/WC Ft Snoop Dogg & Nate Dogg - The Streets.mp3
+2410:EDCITY - SAMBA DE RODA/11 - Samba da Benção.mp3
+2411:EDCITY - SAMBA DE RODA/12 - Melô do Ticatá.mp3
+2412:EDCITY - SAMBA DE RODA/15 - Vem Neném.mp3
+2413:EDCITY - SAMBA DE RODA/17 - Mela Ela.mp3
+2414:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2415:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2416:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2417:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2418:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2419:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2420:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2421:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
+2422:Snoop Dogg/Xzibit Feat Snoop Dogg - X (Pimp My Ride Theme).mp3
 playlist_end

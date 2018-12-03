@@ -32,6 +32,12 @@ floating_modifier $mod
 # Start a terminal
 bindsym $mod+Return exec i3-sensible-terminal
 
+#Google chrome
+bindsym $mod+g exec chromium
+
+#Visual Studio Code
+bindsym $mod+c exec code
+
 # Start polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh
 

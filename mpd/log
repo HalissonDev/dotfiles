@@ -819,3 +819,153 @@ Nov 28 19:23 : client: [3] opened from 127.0.0.1:41636
 Nov 28 19:23 : client: [3] closed
 Nov 28 19:25 : client: [0] closed
 Nov 28 19:25 : client: [4] opened from 127.0.0.1:41640
+Nov 30 10:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:08 : config: option 'auto_resample' on line 231 was not recognized
+Nov 30 10:08 : config: option 'use_mmap' on line 232 was not recognized
+Nov 30 10:08 : client: [0] opened from 127.0.0.1:32914
+Nov 30 10:08 : avahi: Service 'Music Player @ job-workplace' successfully established.
+Nov 30 10:08 : client: [1] opened from 127.0.0.1:32916
+Nov 30 10:08 : client: [1] closed
+Nov 30 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:08 : client: [2] opened from 127.0.0.1:32920
+Nov 30 10:10 : client: [2] closed
+Nov 30 10:10 : client: [3] opened from 127.0.0.1:32928
+Nov 30 10:10 : client: [4] opened from 127.0.0.1:32930
+Nov 30 10:10 : player: played "Notorious Big Greatest Hits/03 Ready To Die.mp3"
+Nov 30 10:10 : client: [4] closed
+Nov 30 10:11 : client: [3] closed
+Nov 30 10:14 : player: played "Bob Marley/Natural Mystic.mp3"
+Nov 30 10:14 : player: played "Bob Marley/So Much Things To Say.mp3"
+Nov 30 10:15 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:15 : config: option 'auto_resample' on line 231 was not recognized
+Nov 30 10:15 : config: option 'use_mmap' on line 232 was not recognized
+Nov 30 10:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:15 : client: [0] opened from 127.0.0.1:33098
+Nov 30 10:15 : avahi: Service 'Music Player @ job-workplace' successfully established.
+Nov 30 10:15 : client: [1] opened from 127.0.0.1:33102
+Nov 30 10:16 : client: [1] closed
+Nov 30 10:16 : client: [2] opened from 127.0.0.1:33108
+Nov 30 10:16 : player: played "Bob Marley/So Much Things To Say.mp3"
+Nov 30 10:17 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 30 10:18 : player: played "Gregory Isaacs/Confirm Reservation.mp3"
+Nov 30 10:18 : client: [3] opened from 127.0.0.1:33118
+Nov 30 10:18 : client: [3] closed
+Nov 30 10:19 : client: [4] opened from 127.0.0.1:33120
+Nov 30 10:19 : client: [4] closed
+Nov 30 10:19 : client: [5] opened from 127.0.0.1:33122
+Nov 30 10:19 : client: [5] closed
+Nov 30 10:19 : client: [6] opened from 127.0.0.1:33124
+Nov 30 10:19 : client: [6] closed
+Nov 30 10:19 : client: [7] opened from 127.0.0.1:33126
+Nov 30 10:19 : client: [7] closed
+Nov 30 10:19 : player: played "Gregory Isaacs/Confirm Reservation.mp3"
+Nov 30 10:19 : client: [8] opened from 127.0.0.1:33128
+Nov 30 10:19 : client: [8] closed
+Nov 30 10:23 : player: played "Gregory Isaacs/Confirm Reservation.mp3"
+Nov 30 10:25 : player: played "Gregory Isaacs/Let's Dance.mp3"
+Nov 30 10:30 : player: played "Gregory Isaacs/Night Nurse.mp3"
+Nov 30 10:33 : player: played "Gregory Isaacs/Revenge.mp3"
+Nov 30 10:37 : player: played "Gregory Isaacs/Sad To Know (You're Leaving).mp3"
+Nov 30 10:44 : player: played "Gregory Isaacs/Soon Forward.mp3"
+Nov 30 10:49 : player: played "Gregory Isaacs/Sunday Morning.mp3"
+Nov 30 10:54 : player: played "Gregory Isaacs/House Of The Rising Sun.mp3"
+Nov 30 10:59 : player: played "Gregory Isaacs/Hot Stepper.mp3"
+Nov 30 11:02 : player: played "Gregory Isaacs/Permanent Lover.mp3"
+Nov 30 11:05 : player: played "Gregory Isaacs/Hush Darling.mp3"
+Nov 30 11:08 : player: played "Gregory Isaacs/My Only Lover.mp3"
+Nov 30 11:13 : player: played "Gregory Isaacs/If I Dont Have You.mp3"
+Nov 30 11:15 : player: played "Gregory Isaacs/Once Ago.mp3"
+Nov 30 11:19 : player: played "Gregory Isaacs/Wailing Rudie.mp3"
+Nov 30 11:23 : player: played "Gregory Isaacs/Top Ten.mp3"
+Nov 30 11:26 : player: played "Gregory Isaacs/Objection Overruled.mp3"
+Nov 30 11:30 : player: played "Gregory Isaacs/Stranger In Your Town.MP3"
+Nov 30 11:35 : player: played "Gregory Isaacs/Cool Down the Pace.mp3"
+Nov 30 11:39 : player: played "Gregory Isaacs/Not the Way.mp3"
+Nov 30 11:43 : player: played "Gregory Isaacs/Material Man.mp3"
+Nov 30 11:47 : player: played "Gregory Isaacs/My Number One.mp3"
+Nov 30 11:49 : player: played "Gregory Isaacs/Sunshine For Me.mp3"
+Nov 30 11:53 : player: played "Gregory Isaacs/The Border.mp3"
+Nov 30 11:57 : player: played "Gregory Isaacs/Front Door.mp3"
+Nov 30 12:01 : player: played "Gregory Isaacs/Out Deh.mp3"
+Nov 30 12:05 : player: played "Notorious Big Greatest Hits/17 Big Booty Hoes.mp3"
+Nov 30 12:08 : player: played "Notorious Big Greatest Hits/18 Would You Die For Me_ (feat. Lil'.mp3"
+Nov 30 12:13 : player: played "Notorious Big Greatest Hits/19 I Really Want To Show You.mp3"
+Nov 30 12:17 : player: played "Notorious Big Greatest Hits/10 Hypnotize.mp3"
+Nov 30 12:22 : player: played "Notorious Big Greatest Hits/11 Kick In The Door.mp3"
+Nov 30 12:27 : player: played "Notorious Big Greatest Hits/16 I Got A Story To Tell.mp3"
+Nov 30 12:31 : player: played "Notorious Big Greatest Hits/12 Another (feat. Lil' Kim).mp3"
+Nov 30 12:36 : player: played "Notorious Big Greatest Hits/13 Going Back To Cali.mp3"
+Nov 30 12:42 : player: played "Notorious Big Greatest Hits/15 Nasty Boy.mp3"
+Nov 30 12:47 : player: played "Notorious Big Greatest Hits/14 The World Is Filled (feat. Too.mp3"
+Nov 30 12:51 : player: played "Notorious Big Greatest Hits/01 Machine Gun Funk.mp3"
+Nov 30 12:54 : player: played "Notorious Big Greatest Hits/02 Warning.mp3"
+Nov 30 12:59 : player: played "Notorious Big Greatest Hits/03 Ready To Die.mp3"
+Nov 30 13:04 : player: played "Notorious Big Greatest Hits/04 One More Chance.mp3"
+Nov 30 13:09 : player: played "Notorious Big Greatest Hits/05 Juicy.mp3"
+Nov 30 13:13 : player: played "Notorious Big Greatest Hits/06 Big Poppa.mp3"
+Nov 30 13:18 : player: played "Notorious Big Greatest Hits/09 Respect.mp3"
+Nov 30 13:22 : player: played "Notorious Big Greatest Hits/07 Unbelievable.mp3"
+Nov 30 13:27 : player: played "Notorious Big Greatest Hits/08 Who Shot Ya.mp3"
+Nov 30 13:32 : player: played "DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/01- Dezarie - www.clickdovale.com.br.mp3"
+Nov 30 13:34 : player: played "DEZARIE - REPÚBLICA DO REGGAE 2012 - WWW.CLICKDOVALE.COM.BR/15- Dezarie - www.clickdovale.com.br.mp3"
+Nov 30 13:38 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/01-2Pac - California Love (Original Version) (Ft. Dr. Dre & Roger Troutman).mp3"
+Nov 30 13:45 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/02-2Pac - California Love (RMX) (Ft. Dr. Dre & Roger Troutman).mp3"
+Nov 30 13:50 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/03-2Pac - Dear Mama.mp3"
+Nov 30 13:55 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/04-2Pac - Hit 'Em Up.mp3"
+Nov 30 13:59 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/05-2Pac - I Get Around (Ft. Digital Underground).mp3"
+Nov 30 14:04 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/06-2Pac - Hail Mary.mp3"
+Nov 30 14:09 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/07-2Pac - How Do U Want It.mp3"
+Nov 30 14:13 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/08-2Pac - Keep Ya Head Up.mp3"
+Nov 30 14:18 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/09-2Pac - I Ain't Mad At Cha (Ft. Danny Boy).mp3"
+Nov 30 14:23 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/10-2Pac - Ambitionz Az A Ridah.mp3"
+Nov 30 14:27 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/11-2Pac - If I Die 2Nite.mp3"
+Nov 30 14:31 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/12-2Pac - 2 Of Amerikaz Most Wanted.mp3"
+Nov 30 14:36 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/13-2Pac - Me and My Girlfriend.mp3"
+Nov 30 14:41 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/14-2Pac - Changes.mp3"
+Nov 30 14:46 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/15-2Pac - Picture Me Rollin' (Ft. Danny Boy, Big Syke & CPO).mp3"
+Nov 30 14:51 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/16-2Pac - Temptations.mp3"
+Nov 30 14:56 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/17-2Pac - Heartz Of Men.mp3"
+Nov 30 15:00 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/18-2Pac - Against All Odds.mp3"
+Nov 30 15:06 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/19-2Pac - All Eyez On Me (Ft. Big Syke).mp3"
+Nov 30 15:10 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/20-2Pac - Troublesome '96.mp3"
+Nov 30 15:14 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/21-2Pac - Smile (Ft. Scarface).mp3"
+Nov 30 15:19 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/22-2Pac - Intro-Bomb First (My Second Reply).mp3"
+Nov 30 15:24 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/23-2Pac - Holler If Ya Hear Me.mp3"
+Nov 30 15:28 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/24-2Pac - I Wonder If Heaven Got a Ghetto.mp3"
+Nov 30 15:33 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/25-2Pac - To Live & Die in L.A..mp3"
+Nov 30 15:37 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/26-2Pac - Until The End Of Time.mp3"
+Nov 30 15:41 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/27-2Pac - So Many Tears.mp3"
+Nov 30 15:43 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/28-2Pac - BiggieTupac Live Freestyle (Funkmaster Flex).mp3"
+Nov 30 15:47 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/29-2Pac - Pour Out A Lil Liquor (Original Version).mp3"
+Nov 30 15:51 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/30-2Pac - Hold Ya Head.mp3"
+Nov 30 15:56 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/31-2Pac - Can't C Me.mp3"
+Nov 30 16:01 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/32-2Pac - Me Against The World.mp3"
+Nov 30 16:07 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/33-2Pac - No More Pain.mp3"
+Nov 30 16:10 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/34-2Pac - The Realist Killaz (Ft 50 Cent).mp3"
+Nov 30 16:16 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/35-2Pac - White Man'z World.mp3"
+Nov 30 16:20 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/36-2Pac - Ballad Of A Dead Soulja.mp3"
+Nov 30 16:25 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/37-2Pac - Life Goes On.mp3"
+Nov 30 16:30 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/38-2Pac - Toss it Up.mp3"
+Nov 30 16:34 : player: played "2Pac - Tupac Amaru Shakur (RapGodFathers.info)/39-2Pac - Staring Through My Rear View (Ft. Dwele).mp3"
+Nov 30 16:39 : player: played "Parangolé - O Novo/01 ABERTURA.mp3"
+Nov 30 16:41 : player: played "Parangolé - O Novo/02 SEU BUMBUM DANÇANDO.mp3"
+Nov 30 16:43 : player: played "Parangolé - O Novo/03 SARRA TOMA.mp3"
+Nov 30 16:45 : player: played "Parangolé - O Novo/04 MOVIMENTO NOVO.mp3"
+Nov 30 16:48 : player: played "Parangolé - O Novo/05 SOLINHO DEVAGAR.mp3"
+Nov 30 16:51 : player: played "Parangolé - O Novo/06 BAILE DO PARANGOLÉ (MC LUKA).mp3"
+Nov 30 16:53 : player: played "Parangolé - O Novo/07 ELA É PODEROSA.mp3"
+Nov 30 16:54 : client: [9] opened from 127.0.0.1:33844
+Nov 30 16:54 : client: [9] closed
+Nov 30 16:56 : player: played "Parangolé - O Novo/09 SARRA NA PISTA NOVINHA.mp3"
+Nov 30 16:58 : player: played "Parangolé - O Novo/10 AGACHAMENTO.mp3"
+Nov 30 16:59 : client: [10] opened from 127.0.0.1:33850
+Nov 30 16:59 : client: [10] closed
+Nov 30 17:01 : player: played "Parangolé - O Novo/12 FLEXIONA.mp3"
+Nov 30 17:02 : client: [11] opened from 127.0.0.1:33854
+Nov 30 17:02 : client: [11] closed
+Nov 30 17:04 : player: played "Parangolé - O Novo/14 DISPOSIÇÃO.mp3"
+Nov 30 17:05 : client: [12] opened from 127.0.0.1:33870
+Nov 30 17:05 : player: played "Parangolé - O Novo/15 RABETÃO (MC LAN).mp3"
+Nov 30 17:05 : client: [12] closed
+Dec 03 07:24 : client: [2] closed
